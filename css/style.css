@@ -1044,9 +1044,36 @@ button, input, textarea, select {
   gap: 16px;
 }
 
+.about-lead {
+  font-size: 1.1rem !important;
+  font-weight: 600;
+  line-height: 1.55;
+  color: #FFFFFF !important;
+  padding-left: 16px;
+  border-left: 3px solid #60A5FA;
+  margin-bottom: 18px;
+}
+
+.about-story {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
 .about-text p {
   color: var(--text-on-green-muted);
-  font-size: 0.98rem;
+  font-size: 0.97rem;
+  line-height: 1.72;
+}
+
+.about-story strong {
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+.about-story em {
+  color: #BFDBFE;
+  font-style: italic;
 }
 
 .stats-grid {

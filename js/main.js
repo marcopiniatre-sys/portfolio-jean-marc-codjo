@@ -238,7 +238,9 @@
       pillsEl.innerHTML = about.pills.map((p) => `<span class="about-pill">${p}</span>`).join('');
     }
     if (paraEl) {
-      paraEl.innerHTML = about.paragraphs.map((p) => `<p>${p}</p>`).join('');
+      const leadHtml = about.lead ? `<p class="about-lead">${about.lead}</p>` : '';
+      const bodyHtml = about.paragraphs.map((p) => `<p>${p}</p>`).join('');
+      paraEl.innerHTML = `${leadHtml}<div class="about-story">${bodyHtml}</div>`;
     }
     if (statsEl) {
       statsEl.innerHTML = about.stats.map((st) => `
