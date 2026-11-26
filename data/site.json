@@ -8,7 +8,7 @@
     "cvFiles": {
       "fr": {
         "label": "FR",
-        "path": "public/cv/CV-Jean-Marc-CODJO.pdf?v=3",
+        "path": "public/cv/CV-Jean-Marc-CODJO.pdf?v=4",
         "filename": "CV-Jean-Marc-CODJO.pdf"
       },
       "en": null
@@ -51,7 +51,7 @@
     "titleHighlight": "Jean-Marc Codjo ?",
     "paragraphs": [
       "Professionnel du marketing digital, de la communication 360° et de la stratégie éditoriale, avec plus de 5 ans d'expérience en référencement naturel (SEO), copywriting orienté conversion, campagnes d'acquisition et développement commercial B2B.",
-      "Spécialisé en Gestion de Projets Marketing 360° (OIF / D-CLIC) : audit 360°, plateforme de marque, planification opérationnelle et budgétaire (Gantt), coordination de prestataires (briefs, cahiers des charges, Kanban), communication phygitale et événementielle, pilotage de la performance (KPIs, ROI, tableaux de bord). Certifié en marketing digital (Meta/Coursera, FORCE-N, OIF), intelligence artificielle (Banque Mondiale / Microsoft Elevate) et vente de solutions de cybersécurité (Kaspersky)."
+      "Actuellement en spécialisation Gestion de Projets Marketing 360° (OIF / D-CLIC) : audit 360°, plateforme de marque, planification opérationnelle et budgétaire (Gantt), coordination de prestataires (briefs, cahiers des charges, Kanban), communication phygitale et événementielle, pilotage de la performance (KPIs, ROI, tableaux de bord). Certifié en marketing digital (Meta/Coursera, FORCE-N, OIF), intelligence artificielle (Banque Mondiale / Microsoft Elevate) et vente de solutions de cybersécurité (Kaspersky)."
     ],
     "pills": [
       "Marketing 360°",
@@ -159,7 +159,7 @@
   ],
   "education": [
     {
-      "period": "Août – Nov. 2026",
+      "period": "Août 2026 – En cours",
       "title": "Parcours de spécialisation : Gestion de Projets Marketing 360°",
       "institution": "OIF — Programme D-CLIC",
       "details": "5 séquences, 25 modules, 100 chapitres, 5 missions tutorées & portfolio : audit 360°, plateforme de marque, plan d'action, Gantt, budget, briefs et cahiers des charges, Kanban/Trello, campagnes phygitales, relations publiques, KPIs (CPA, LTV), ROI, dataviz et reporting exécutif."
@@ -207,7 +207,7 @@
     {
       "title": "Gestion de Projets Marketing 360°",
       "issuer": "OIF / Programme D-CLIC",
-      "date": "Nov. 2026",
+      "date": "Août 2026 – En cours",
       "category": "Marketing 360°",
       "code": "",
       "verifyUrl": ""
