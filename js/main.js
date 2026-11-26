@@ -158,7 +158,8 @@
         if (labelEl) labelEl.textContent = 'Téléchargement en cours…';
 
         try {
-          const res = await fetch(url, { method: 'HEAD' });
+          const freshUrl = `${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`;
+          const res = await fetch(freshUrl, { method: 'HEAD', cache: 'no-store' });
           if (!res.ok) throw new Error('Fichier CV introuvable');
 
           // Analytics (GA4 / GTM / compteur local)
@@ -171,9 +172,9 @@
             window.dataLayer.push({ event: 'cv_download', source });
           }
 
-          // Déclencher le téléchargement réel
+          // Déclencher le téléchargement réel de la version la plus récente
           const link = document.createElement('a');
-          link.href = url;
+          link.href = freshUrl;
           link.download = filename;
           document.body.appendChild(link);
           link.click();
