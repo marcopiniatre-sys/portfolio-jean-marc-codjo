@@ -1,6 +1,6 @@
 {
   "config": {
-    "siteUrl": "https://jean-marc-codjo.vercel.app",
+    "siteUrl": "https://portfolio-jean-marc-codjo.vercel.app",
     "formspreeEndpoint": "",
     "showTestimonials": false,
     "showBlog": true,
@@ -37,13 +37,13 @@
     "signature": "Jean-Marc Codjo"
   },
   "marquee": [
-    "SEO",
-    "Copywriting",
-    "Marketing 360°",
+    "Communication 360°",
+    "Gestion de Projet Marketing 360°",
+    "SEO & Stratégie Éditoriale",
+    "Copywriting Conversion",
     "Croissance YouTube",
-    "Acquisition digitale",
-    "Gestion de projet",
-    "Développement commercial B2B"
+    "Acquisition Digitale",
+    "Développement Commercial B2B"
   ],
   "about": {
     "label": "À propos",

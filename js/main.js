@@ -767,6 +767,7 @@
     const tickerEl = $('#hero-ticker-word');
     if (tickerEl) {
       const roles = [
+        'Communication 360° & Image de Marque',
         'Gestion de Projets Marketing 360°',
         'Stratégie SEO & Architecture Éditoriale',
         'Copywriting Orienté Conversion',
