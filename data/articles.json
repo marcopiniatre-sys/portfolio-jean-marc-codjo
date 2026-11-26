@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "audit-marketing-360-business-metrics-vs-vanity-metrics",
+    "title": "Audit Marketing 360° : pourquoi les « Business Metrics » doivent remplacer les « Vanity Metrics »",
+    "category": "Gestion de projet 360°",
+    "date": "2026-11-18",
+    "dateDisplay": "18 nov. 2026",
+    "readTime": "4 min de lecture",
+    "image": "public/images/projects/noxa-audit-360.svg",
+    "metaDescription": "Comment réussir un audit marketing 360° orienté résultats en distinguant vanity metrics et indicateurs business (CAC, LTV, ROI, taux de rebond).",
+    "excerpt": "Le nombre d'abonnés ou d'impressions rassure l'ego, rarement la trésorerie. Voici comment structurer un diagnostic marketing 360° utile à un Comité de Direction.",
+    "sections": [
+      {
+        "heading": "Le piège des indicateurs de vanité",
+        "paragraphs": [
+          "Dans beaucoup d'entreprises, le reporting marketing se résume encore au nombre d'abonnés, de vues ou de likes. Ces indicateurs flattent, mais ils n'expliquent ni la lenteur d'un cycle de vente, ni un taux de rebond élevé, ni le coût réel d'acquisition d'un client.",
+          "Avant de lancer la moindre campagne publicitaire, un Chef de Projet Marketing 360° commence par trier les données pour ne garder que celles qui éclairent directement la rentabilité et le tunnel de conversion."
+        ]
+      },
+      {
+        "heading": "La méthode « Démarrer / Arrêter / Continuer »",
+        "paragraphs": [
+          "Pour rendre un audit immédiatement actionnable, je structure le diagnostic en trois décisions franches : ce qu'il faut arrêter (pratiques coûteuses ou contre-productives, site non mobile-first), ce qu'il faut continuer (forces réelles, certifications, références clients) et ce qu'il faut démarrer (offre lisible, prospection mesurable, acquisition phygitale).",
+          "Chaque observation est reliée à un impact chiffré attendu, ce qui facilite la validation rapide par la Direction Générale."
+        ]
+      },
+      {
+        "heading": "Des constats aux décisions : Quoi / Donc / Et maintenant",
+        "paragraphs": [
+          "Un bon tableau de bord ne présente jamais des chiffres bruts sans interprétation. La structure « Quoi ? (le fait chiffré) / Donc ? (l'impact business) / Et maintenant ? (les 3 actions correctives nommément attribuées) » transforme un simple suivi en véritable outil de pilotage."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "retro-planning-gantt-loi-de-murphy-budget-marketing",
+    "title": "Plan d'action marketing : sécuriser son rétro-planning Gantt et son budget grâce à la Loi de Murphy",
+    "category": "Gestion de projet 360°",
+    "date": "2026-11-10",
+    "dateDisplay": "10 nov. 2026",
+    "readTime": "5 min de lecture",
+    "image": "public/images/projects/noxa-plan-action-gantt.svg",
+    "metaDescription": "Méthode QQOQCCP, gestion des dépendances Gantt, marge de sécurité +20 % et provision budgétaire +10 % : guide pratique pour piloter un lancement marketing sans dérapage.",
+    "excerpt": "Un imprimeur en retard ou un site livré 48h après le début des publicités peut compromettre un lancement. Comment blinder son planning et son enveloppe budgétaire.",
+    "sections": [
+      {
+        "heading": "Passer de l'idée à l'action avec le QQOQCCP",
+        "paragraphs": [
+          "Un axe stratégique reste un vœu pieux tant qu'il n'est pas découpé en tâches précises : Quoi livrer exactement, Qui est l'unique responsable, Où (canal/outil), Quand (dates fermes), Comment, Combien et Pourquoi. Cette discipline supprime les zones grises dès le lancement."
+        ]
+      },
+      {
+        "heading": "Intégrer les dépendances et la marge +20 % dans le Gantt",
+        "paragraphs": [
+          "Toutes les tâches ne peuvent pas démarrer en même temps : on ne lance pas une campagne LinkedIn Ads avant que la landing page et son formulaire d'audit soient testés sur mobile. En ajoutant systématiquement une marge de sécurité de +20 % sur chaque jalon critique, on absorbe les aléas sans décaler le Jour J."
+        ]
+      },
+      {
+        "heading": "Structurer son budget par 4 masses de coûts + réserve de 10 %",
+        "paragraphs": [
+          "Ventiler le budget en quatre masses claires (Achats Médias, Production & Création, Honoraires Prestataires, Outils & Plateformes) appuyées sur un benchmark des prix réels du marché crédibilise immédiatement la demande budgétaire. Une ligne dédiée « Provision Loi de Murphy (+10 %) » évite tout dépassement imprévu."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "seo-copywriting-b2b-landing-page-conversion",
+    "title": "SEO & Copywriting B2B : concevoir une landing page qui baisse le taux de rebond et génère des leads",
+    "category": "SEO & Contenu",
+    "date": "2026-11-02",
+    "dateDisplay": "2 nov. 2026",
+    "readTime": "4 min de lecture",
+    "image": "public/images/projects/noxa-cahier-charges-web.svg",
+    "metaDescription": "Architecture éditoriale, balisage Hn, preuves sociales et formulaire court : les leviers SEO et copywriting pour transformer le trafic B2B en demandes qualifiées.",
+    "excerpt": "Attirer du trafic ne suffit pas si 80 % des visiteurs repartent en quelques secondes. Les fondamentaux éditoriaux et techniques d'une page d'offre B2B performante.",
+    "sections": [
+      {
+        "heading": "Parler aux freins psychologiques de chaque décideur",
+        "paragraphs": [
+          "En B2B, la même offre est souvent évaluée par deux profils différents : un profil technique (DSI/RSSI) qui cherche des preuves concrètes et des certifications officielles, et un profil dirigeant (DG) qui veut de la clarté budgétaire et de la sérénité. Le copywriting doit rassurer les deux sans jargon inutile."
+        ]
+      },
+      {
+        "heading": "Allier rigueur SEO On-Page et lisibilité mobile-first",
+        "paragraphs": [
+          "Un balisage H1–H3 hiérarchisé, un champ sémantique travaillé (YourTextGuru, Semrush) et un maillage interne propre posent les bases de l'acquisition organique. Côté expérience utilisateur, un chargement rapide en 4G (images WebP, lazy-loading, LCP < 2,5 s) et des paragraphes courts font mécaniquement chuter le taux de rebond."
+        ]
+      },
+      {
+        "heading": "Réduire la friction jusqu'au passage à l'action",
+        "paragraphs": [
+          "Un formulaire de 12 champs décourage un dirigeant sur smartphone. Limiter la prise de contact à 4 champs essentiels (Nom, Entreprise, Téléphone/WhatsApp, Email) autour d'une promesse concrète — comme un diagnostic gratuit — démultiplie le taux de conversion."
+        ]
+      }
+    ]
+  }
+]

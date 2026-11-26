@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "noxa-it-audit-strategique-360",
+    "number": "01",
+    "title": "Audit Stratégique 360° & Repositionnement B2B — NOXA IT",
+    "shortTitle": "Audit 360°",
+    "category": "Gestion de projet 360°",
+    "tags": ["Gestion de projet 360°", "Audit 360°", "Stratégie B2B"],
+    "date": "Formation Gestion de Projets Marketing 360°",
+    "client": "NOXA Ingénierie & Télécoms (NOXA IT — 5 pays Afrique de l'Ouest)",
+    "image": "public/images/projects/noxa-audit-360.svg",
+    "imageAlt": "Aperçu du rapport d'audit stratégique 360° pour NOXA IT : méthode Démarrer Arrêter Continuer et segmentation DSI / DG",
+    "excerpt": "Diagnostic complet d'une ESN de 35 collaborateurs dépendante à 85 % des marchés publics et définition de 3 axes stratégiques pour conquérir le marché PME privé.",
+    "context": "Créée en 2005 à Lomé (Togo) avec 5 agences régionales (Bénin, Togo, Burkina Faso, Niger, Côte d'Ivoire), NOXA IT réalisait 85 % de son chiffre d'affaires sur les appels d'offres publics (cycle de 6 à 9 mois, 28 % de taux de succès). Son site n'était plus mis à jour depuis 3 ans (82 % de taux de rebond) et aucune publicité digitale n'était active. Objectif : lancer l'offre forfaitaire « Pack Résilience & Cybersécurité PME » (6 000 000 FCFA/an) pour signer 15 clients privés en 12 mois (90 000 000 FCFA de CA récurrent) avec un budget de 6 100 000 FCFA.",
+    "role": "Chef de Projet Marketing 360° (Auteur de l'audit et des recommandations Codir — Mission tutorée D-CLIC / OIF)",
+    "tools": ["Méthode Démarrer / Arrêter / Continuer", "Analyse KPIs Business", "Segmentation Comportementale", "Plateforme de Marque (UVP)"],
+    "actions": [
+      "Réalisation du diagnostic terrain selon la matrice « Démarrer / Arrêter / Continuer » en écartant les vanity metrics.",
+      "Identification des 4 freins business critiques (85 % dépendance marchés publics, 82 % taux de rebond, 45 % taux de renouvellement privé, 0 FCFA en acquisition) et du levier marché (+40 % d'attaques rançongiciels en Afrique de l'Ouest).",
+      "Construction de la segmentation comportementale de 2 profils décisionnels : le DSI/RSSI débordé (déclencheur : preuve technique, démo live, badges Kaspersky/Veeam Gold) et le Directeur Général prudent (déclencheur : forfait fixe clair et continuité d'activité).",
+      "Formalisation de 3 axes stratégiques correctifs : structuration du Pack Résilience PME, refonte mobile-first du site web et acquisition B2B phygitale sur 5 pays."
+    ],
+    "results": [
+      { "value": "85 %", "label": "Dépendance marchés publics diagnostiquée" },
+      { "value": "82 %", "label": "Taux de rebond identifié à corriger (< 45 %)" },
+      { "value": "2 profils", "label": "Segments comportementaux DSI & DG cartographiés" },
+      { "value": "90 M FCFA", "label": "Objectif CA annuel cadré (15 PME à 6 M/an)" }
+    ],
+    "deliverableUrl": "public/deliverables/Livrable-1-Rapport-Audit-NOXA-IT.pdf",
+    "deliverableLabel": "Télécharger le Rapport d'Audit (PDF)"
+  },
+  {
+    "slug": "noxa-it-plan-action-gantt-budget",
+    "number": "02",
+    "title": "Plan d'Action QQOQCCP, Rétro-planning Gantt & Budget — NOXA IT",
+    "shortTitle": "Plan d'action & Budget",
+    "category": "Gestion de projet 360°",
+    "tags": ["Gestion de projet 360°", "Gantt & Budget", "QQOQCCP"],
+    "date": "Formation Gestion de Projets Marketing 360°",
+    "client": "NOXA Ingénierie & Télécoms (NOXA IT)",
+    "image": "public/images/projects/noxa-plan-action-gantt.svg",
+    "imageAlt": "Aperçu du plan d'action QQOQCCP, du diagramme de Gantt sur 14 semaines et du budget marketing de 6 100 000 FCFA",
+    "excerpt": "Déclinaison opérationnelle en 9 tâches chiffrées sur 14 semaines avec dépendances, marges de sécurité (+20 %) et budget calibré aux prix réels du marché Cotonou/Lomé.",
+    "context": "À la suite de l'audit stratégique, il fallait traduire les 3 axes prioritaires en un plan d'exécution sans zone d'ombre : affecter un seul responsable par tâche, sécuriser les dépendances critiques (site web prêt avant les publicités LinkedIn) et bâtir un budget défendable devant la Direction Financière dans une enveloppe stricte de 6 100 000 FCFA.",
+    "role": "Chef de Projet Marketing 360° (Conception du plan d'action, du rétro-planning Gantt et du modèle budgétaire Excel)",
+    "tools": ["Excel / Google Sheets", "Méthode QQOQCCP", "Diagramme de Gantt", "Loi de Murphy (+20 % délais / +10 % budget)"],
+    "actions": [
+      "Découpage des 3 axes en 9 tâches opérationnelles séquencées (Axe 1 Produit → Axe 2 Vitrine → Axe 3 Acquisition) avec un responsable unique par livrable.",
+      "Construction d'un rétro-planning Gantt sur 14 semaines (janvier à avril 2027) intégrant les blocages/dépendances et une marge de sécurité de +20 % sur chaque tâche.",
+      "Benchmarking des tarifs réels du marché Cotonou/Lomé (développeur WordPress senior, impression 250g, hôtels 4 étoiles Golden Tulip / Onomo, CPC/CPL LinkedIn B2B Afrique de l'Ouest).",
+      "Structuration du budget dynamique par 4 masses de coûts (Achats Médias 1,5 M · Production 545 k · Prestataires 2,85 M · Outils 650 k) + Provision Murphy obligatoire de +10 % (555 000 FCFA)."
+    ],
+    "results": [
+      { "value": "6,1 M FCFA", "label": "Budget total équilibré au franc près" },
+      { "value": "9 tâches", "label": "Séquencées sur 3 axes & 14 semaines" },
+      { "value": "+20 %", "label": "Marge sécurité intégrée sur chaque jalon" },
+      { "value": "555 k FCFA", "label": "Réserve Murphy (+10 %) provisionnée" }
+    ],
+    "deliverableUrl": "public/deliverables/Livrable-2-Plan-Action-Marketing-NOXA-IT.xlsx",
+    "deliverableLabel": "Télécharger le Plan d'Action & Budget (XLSX)"
+  },
+  {
+    "slug": "noxa-it-cahier-des-charges-refonte-web",
+    "number": "03",
+    "title": "Cahier des Charges — Refonte Web Mobile-First & Landing Page PME",
+    "shortTitle": "Cahier des charges Web",
+    "category": "SEO & Contenu",
+    "tags": ["SEO & Contenu", "Copywriting", "Cahier des charges"],
+    "date": "Formation Gestion de Projets Marketing 360°",
+    "client": "NOXA Ingénierie & Télécoms (NOXA IT)",
+    "image": "public/images/projects/noxa-cahier-charges-web.svg",
+    "imageAlt": "Aperçu du cahier des charges de refonte mobile-first de NOXA IT : architecture 5 pages, landing page Pack PME et exigences SEO PageSpeed",
+    "excerpt": "Rédaction du cahier des charges complet pour piloter un prestataire WordPress : architecture SEO, landing page orientée conversion et exigences techniques 4G mobile.",
+    "context": "Avec 82 % de taux de rebond sur un site obsolète non lisible sur smartphone, NOXA IT risquait de brûler son budget LinkedIn Ads sans convertir. Il fallait cadrer précisément le prestataire web externe (budget 1 300 000 FCFA TTC) sur l'architecture, le copywriting rassurant pour les DG/DSI, la performance mobile et les jalons de recettage.",
+    "role": "Responsable Projet & Validation Éditoriale (Rédaction du cahier des charges, architecture de conversion et suivi technique avec Lionel)",
+    "tools": ["Cahier des Charges (CDC)", "UX & Copywriting B2B", "SEO Technique (WebP, LCP, H1-H3)", "WordPress / Gutenberg"],
+    "actions": [
+      "Définition d'une architecture claire en 5 pages centrée sur la Landing Page dédiée « Pack Résilience & Cybersécurité PME » (6 000 000 FCFA/an).",
+      "Spécification d'un formulaire direct ultra-court (4 champs maximum) pour demander un audit gratuit de 2h sur smartphone avec alertes commerciales instantanées.",
+      "Cadrage des exigences SEO & performance mobile : Google PageSpeed > 85/100 sur mobile, LCP < 2,5 s en 4G, compression WebP, lazy-loading, HTTPS et balisage H1-H3.",
+      "Définition de la charte éditoriale/visuelle (« À faire vs À éviter », bannissement des clichés hackers) et de l'échéancier de paiement en 3 tranches (40 % / 40 % / 20 %) avec clause de propriété intégrale."
+    ],
+    "results": [
+      { "value": "< 45 %", "label": "Objectif taux de rebond (vs 82 % initial)" },
+      { "value": "> 85/100", "label": "Score Google PageSpeed mobile exigé" },
+      { "value": "25+ leads", "label": "Objectif demandes d'audit avant Ads" },
+      { "value": "1,3 M FCFA", "label": "Budget prestataire cadré en 4 étapes" }
+    ],
+    "deliverableUrl": "public/deliverables/Livrable-3-Cahier-des-Charges-NOXA-IT.pdf",
+    "deliverableLabel": "Télécharger le Cahier des Charges (PDF)"
+  },
+  {
+    "slug": "noxa-it-plan-lancement-phygital-360",
+    "number": "04",
+    "title": "Plan de Lancement Phygital 360° & Passerelles 3T — 5 Pays",
+    "shortTitle": "Plan de lancement 360°",
+    "category": "Communication",
+    "tags": ["Communication", "Gestion de projet 360°", "Acquisition"],
+    "date": "Formation Gestion de Projets Marketing 360°",
+    "client": "NOXA Ingénierie & Télécoms (NOXA IT — Togo, Bénin, Burkina, Niger, Côte d'Ivoire)",
+    "image": "public/images/projects/noxa-plan-lancement-3t.svg",
+    "imageAlt": "Aperçu du plan de lancement 360° NOXA IT : canaux phygital, passerelles QR codes méthode 3T et planning J-30 à J+21",
+    "excerpt": "Orchestration d'un lancement multicanal associant LinkedIn Ads, matinales « Cyber Breakfast » à Lomé et Cotonou, webinaire 5 pays et passerelles QR codes 3T.",
+    "context": "En B2B Afrique de l'Ouest, un dirigeant signe rarement un contrat annuel de 6 000 000 FCFA uniquement après une publicité en ligne. Il fallait créer une synergie fluide entre prospection digitale sur 5 pays et rencontres d'affaires en présentiel, tout en anticipant les risques terrain (coupures réseau/électricité, désistements).",
+    "role": "Chef de Projet Marketing 360° (Stratégie phygitale, dispositif RP/partenaires, calendrier J-30 → J+21 et plan de secours)",
+    "tools": ["Stratégie Phygitale 360°", "Méthode des 3T (QR Codes + UTM)", "LinkedIn Ads & Sales Navigator", "Événementiel & Relations Presse"],
+    "actions": [
+      "Déclinaison d'un message unifié adapté par canal et par cible : risque financier (+40 % d'attaques) pour les DG sur LinkedIn, preuves techniques et guide PDF pour les DSI.",
+      "Conception de l'écosystème phygital : LinkedIn Ads (5 pays), 2 matinales « Cyber Breakfast » (30 décideurs/ville à Lomé et Cotonou avec simulation live d'attaque bloquée par Kaspersky + Veeam), webinaire régional et communiqué presse économique.",
+      "Mise en place de la Méthode des 3T sur tous les supports imprimés : QR codes Traçables (UTM par support/ville), Transitifs (vers formulaire direct ou WhatsApp Business) et Temporels (J-14 inscription → Jour J audit → J+7 contrat).",
+      "Rédaction du rétro-planning synchronisé en 3 phases (Teasing J-30 à J-1, Jour J heure par heure, Amplification J+1 à J+21) et matrice Plan B Loi de Murphy (2 box 4G, onduleur, vidéo de secours USB, sur-invitation 45 pour 30 présents)."
+    ],
+    "results": [
+      { "value": "5 pays", "label": "Déploiement synchronisé Afrique de l'Ouest" },
+      { "value": "60 DG/DSI", "label": "Ciblés en matinales Cyber Breakfast (2 villes)" },
+      { "value": "3 phases", "label": "Séquençage complet de J-30 à J+21" },
+      { "value": "100 %", "label": "Supports papier tracés par QR codes UTM (3T)" }
+    ],
+    "deliverableUrl": "public/deliverables/Livrable-4-Plan-de-Lancement-360-NOXA-IT.pptx",
+    "deliverableLabel": "Télécharger le Plan de Lancement (PPTX)"
+  },
+  {
+    "slug": "noxa-it-tableau-de-bord-pilotage-roi",
+    "number": "05",
+    "title": "Tableau de Bord de Pilotage ROI / KPIs & Note Codir — NOXA IT",
+    "shortTitle": "Tableau de bord ROI",
+    "category": "Gestion de projet 360°",
+    "tags": ["Gestion de projet 360°", "KPIs & ROI", "Dataviz Excel"],
+    "date": "Formation Gestion de Projets Marketing 360°",
+    "client": "NOXA Ingénierie & Télécoms (NOXA IT)",
+    "image": "public/images/projects/noxa-dashboard-roi.svg",
+    "imageAlt": "Aperçu du tableau de bord de pilotage NOXA IT : 84 M FCFA générés, 14 contrats signés, 140 leads audit et ROI de 1 277 %",
+    "excerpt": "Cockpit Excel automatisé séparant données brutes et affichage manager (5 KPIs business, suivi budgétaire 12 mois) + synthèse décisionnelle « Quoi / Donc / Et maintenant ».",
+    "context": "Pour piloter le déploiement annuel du « Pack Résilience & Cybersécurité PME » devant le Comité de Direction, NOXA IT avait besoin d'un tableau de bord lisible en 5 secondes comparant mensuellement objectifs et réalisations, détectant automatiquement les écarts (code couleur vert/rouge) et proposant des décisions correctives immédiates.",
+    "role": "Chef de Projet Marketing 360° (Architecture Excel données brutes / cockpit KPIs, analyse ROI/CAC et synthèse managériale Codir)",
+    "tools": ["Excel / Google Sheets", "Mise en forme conditionnelle", "Calcul ROI & CAC", "Framework Quoi / Donc / Et maintenant"],
+    "actions": [
+      "Séparation rigoureuse en 2 onglets : base mensuelle « Donnees_Brutes » (visites, rebond, leads, diagnostics 2h, contrats, dépenses, CA) et « Tableau_de_Bord » entièrement automatisé par formules.",
+      "Suivi de 5 KPIs business clés : ROI, nouveaux clients privés signés, CA récurrent généré, taux de rebond moyen et Coût d'Acquisition Client (CAC).",
+      "Analyse des écarts mensuels : identification du rôle amortisseur de la provision Murphy (+10 %) sur les pics LinkedIn Ads de mars-avril et repérage du creux d'activité d'août (0 contrat).",
+      "Rédaction de la note de synthèse managériale (Quoi / Donc / Et maintenant) formulant 3 actions correctives concrètes : relance des 6 PME déjà auditées pour le 15e contrat, ajout de témoignages vidéo sur la landing page (rebond < 40 %) et campagne de relance estivale e-mail + WhatsApp."
+    ],
+    "results": [
+      { "value": "84 M FCFA", "label": "CA récurrent généré (14 contrats / 15 visés)" },
+      { "value": "1 277 %", "label": "ROI mesuré (~13,8 F rapportés par franc investi)" },
+      { "value": "140 leads", "label": "Demandes d'audit générées (70 diagnostics 2h)" },
+      { "value": "-36 pts", "label": "Baisse du taux de rebond (de 82 % à 46,1 %)" }
+    ],
+    "deliverableUrl": "public/deliverables/Livrable-5-Tableau-de-Bord-Pilotage-NOXA-IT.xlsx",
+    "deliverableLabel": "Télécharger le Tableau de Bord (XLSX)"
+  },
+  {
+    "slug": "youtube-axe-de-leveil-croissance-monetisation",
+    "number": "06",
+    "title": "Stratégie, Croissance & Monétisation — Chaîne YouTube Axe de l'Éveil",
+    "shortTitle": "Chaîne YouTube Monétisée — Axe de l'Éveil",
+    "category": "YouTube",
+    "tags": ["YouTube", "SEO YouTube", "Monétisation"],
+    "date": "En cours",
+    "client": "Chaîne YouTube gérée — Axe de l'Éveil (@AxedelEveil)",
+    "image": "public/images/projects/youtube-axe-eveil.svg",
+    "imageAlt": "Étude de cas de la chaîne YouTube monétisée Axe de l'Éveil gérée par Jean-Marc CODJO (plus de 5 000 abonnés)",
+    "excerpt": "Pilotage stratégique et éditorial complet d'une chaîne YouTube aujourd'hui monétisée comptant plus de 5 000 abonnés : storytelling, SEO YouTube, rétention et analyse YouTube Studio.",
+    "context": "Développer et monétiser une chaîne YouTube de façon organique exige une cohérence éditoriale forte, des accroches narratives capables de retenir l'audience et une optimisation continue du référencement sur la plateforme.",
+    "role": "Stratège & Gestionnaire de chaîne YouTube (Positionnement éditorial, storytelling, SEO YouTube, analyse de performance et monétisation)",
+    "tools": ["YouTube Studio", "SEO YouTube", "Storytelling & Scripts", "CapCut & Canva"],
+    "actions": [
+      "Définition du positionnement éditorial et de la promesse de contenu de la chaîne « Axe de l'Éveil ».",
+      "Conception de scripts structurés pour le storytelling vidéo, l'accroche des premières secondes et la rétention d'audience.",
+      "Optimisation SEO YouTube (titres, descriptions, mots-clés et conception de miniatures orientées taux de clic).",
+      "Pilotage continu via YouTube Studio (analyse des courbes de rétention, CTR et parcours spectateur) jusqu'à l'activation et la pérennisation de la monétisation."
+    ],
+    "results": [
+      { "value": "5 000+", "label": "Abonnés organiques fidélisés" },
+      { "value": "Monétisée", "label": "Chaîne éligible & active au programme partenaire" },
+      { "value": "SEO + Rétention", "label": "Optimisation continue via YouTube Studio" },
+      { "value": "100 %", "label": "Gestion éditoriale & stratégique de bout en bout" }
+    ],
+    "deliverableUrl": "https://www.youtube.com/@AxedelEveil",
+    "deliverableLabel": "Visiter la chaîne YouTube (@AxedelEveil)",
+    "externalLink": true
+  }
+]

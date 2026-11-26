@@ -1,0 +1,54 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#EFF6FF"/>
+  <rect x="34" y="30" width="732" height="460" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="34" y="30" width="732" height="68" rx="20" fill="#0F2C59"/>
+  <rect x="34" y="78" width="732" height="20" fill="#0F2C59"/>
+  <rect x="60" y="50" width="166" height="28" rx="14" fill="#2563EB"/>
+  <text x="143" y="69" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">CAHIER DES CHARGES</text>
+  <text x="242" y="70" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Cahier des Charges — Refonte Mobile-First</text>
+  <!-- Left: Mobile wireframe mockup -->
+  <g transform="translate(60,120)">
+    <rect width="230" height="346" rx="24" fill="#1E3A5F"/>
+    <rect x="12" y="14" width="206" height="318" rx="16" fill="#F8FAFC"/>
+    <rect x="24" y="28" width="182" height="72" rx="12" fill="#1E3A5F"/>
+    <text x="36" y="52" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">Pack Résilience PME</text>
+    <text x="36" y="70" font-family="system-ui,sans-serif" font-size="10.5" fill="#CBD5E1">6 000 000 FCFA / an · Tout inclus</text>
+    <rect x="36" y="78" width="120" height="16" rx="8" fill="#2563EB"/>
+    <text x="96" y="89" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="8.5" fill="#161616">Audit gratuit de 2h →</text>
+    <rect x="24" y="112" width="182" height="36" rx="8" fill="#E2E8F0"/>
+    <text x="115" y="134" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="10" fill="#1E3A5F">Kaspersky Gold · Veeam Gold · 20 ans</text>
+    <text x="24" y="172" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#1E3A5F">Formulaire court (4 champs)</text>
+    <rect x="24" y="182" width="182" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1"/><text x="32" y="198" font-family="system-ui,sans-serif" font-size="9.5" fill="#94A3B8">Nom &amp; prénom</text>
+    <rect x="24" y="212" width="182" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1"/><text x="32" y="228" font-family="system-ui,sans-serif" font-size="9.5" fill="#94A3B8">Entreprise</text>
+    <rect x="24" y="242" width="182" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1"/><text x="32" y="258" font-family="system-ui,sans-serif" font-size="9.5" fill="#94A3B8">Téléphone / WhatsApp</text>
+    <rect x="24" y="272" width="182" height="24" rx="6" fill="#FFFFFF" stroke="#CBD5E1"/><text x="32" y="288" font-family="system-ui,sans-serif" font-size="9.5" fill="#94A3B8">Email professionnel</text>
+    <rect x="24" y="302" width="182" height="22" rx="11" fill="#D97706"/>
+    <text x="115" y="317" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="10" fill="#FFFFFF">Demander mon audit gratuit</text>
+  </g>
+  <!-- Right: Specs & KPIs -->
+  <g transform="translate(318,120)">
+    <text x="0" y="18" font-family="system-ui,sans-serif" font-weight="800" font-size="14" fill="#0F2C59">ARCHITECTURE 5 PAGES &amp; EXIGENCES SEO 4G</text>
+    <g transform="translate(0,32)">
+      <rect width="204" height="82" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+      <text x="16" y="34" font-family="system-ui,sans-serif" font-weight="800" font-size="24" fill="#0F2C59">&gt; 85/100</text>
+      <text x="16" y="56" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">Google PageSpeed Mobile</text>
+      <text x="16" y="72" font-family="system-ui,sans-serif" font-size="10.5" fill="#6B7280">LCP &lt; 2,5 s · WebP · HTTPS</text>
+
+      <rect x="218" width="204" height="82" rx="14" fill="#EFF6FF" stroke="#BFDBFE"/>
+      <text x="234" y="34" font-family="system-ui,sans-serif" font-weight="800" font-size="24" fill="#1E40AF">&lt; 45 %</text>
+      <text x="234" y="56" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">Objectif taux de rebond</text>
+      <text x="234" y="72" font-family="system-ui,sans-serif" font-size="10.5" fill="#6B7280">Contre 82 % sur l'ancien site</text>
+    </g>
+    <rect y="132" width="422" height="122" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="18" y="156" font-family="system-ui,sans-serif" font-weight="700" font-size="12.5" fill="#161616">5 Pages structurées orientées conversion :</text>
+    <text x="18" y="178" font-family="system-ui,sans-serif" font-size="11.5" fill="#374151">1. Accueil (UVP, 20 ans, 35 collaborateurs, 5 pays)</text>
+    <text x="18" y="198" font-family="system-ui,sans-serif" font-size="11.5" fill="#374151">2. Landing Page « Pack Résilience &amp; Cybersécurité PME »</text>
+    <text x="18" y="218" font-family="system-ui,sans-serif" font-size="11.5" fill="#374151">3. Solutions (Réseaux, Cyber, Veeam, GED) &amp; 4. Références / Guide PDF</text>
+    <text x="18" y="238" font-family="system-ui,sans-serif" font-size="11.5" fill="#374151">5. Contact &amp; 5 Agences régionales</text>
+
+    <rect y="270" width="422" height="76" rx="14" fill="#0F2C59"/>
+    <text x="18" y="298" font-family="system-ui,sans-serif" font-weight="800" font-size="15" fill="#2563EB">Budget Prestataire : 1 300 000 FCFA TTC</text>
+    <text x="18" y="320" font-family="system-ui,sans-serif" font-size="11.5" fill="#FFFFFF">4 jalons validés (04 févr. → 02 mars 2027) · Paiement 40 / 40 / 20 %</text>
+    <text x="18" y="336" font-family="system-ui,sans-serif" font-size="11" fill="#BFDBFE">Objectif : 25+ demandes d'audit avant le lancement LinkedIn Ads</text>
+  </g>
+</svg>

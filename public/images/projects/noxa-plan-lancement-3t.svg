@@ -1,0 +1,58 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#EFF6FF"/>
+  <rect x="34" y="30" width="732" height="460" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="34" y="30" width="732" height="68" rx="20" fill="#0F2C59"/>
+  <rect x="34" y="78" width="732" height="20" fill="#0F2C59"/>
+  <rect x="60" y="50" width="176" height="28" rx="14" fill="#2563EB"/>
+  <text x="148" y="69" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">PLAN DE LANCEMENT</text>
+  <text x="252" y="70" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Plan de Lancement Phygital 360° &amp; Méthode 3T</text>
+  <!-- 3 Phases timeline -->
+  <g transform="translate(60,120)">
+    <text x="0" y="16" font-family="system-ui,sans-serif" font-weight="800" font-size="13" fill="#0F2C59">ORCHESTRATION EN 3 PHASES (5 PAYS : TOGO · BÉNIN · BURKINA · NIGER · CÔTE D'IVOIRE)</text>
+    <rect y="30" width="214" height="160" rx="16" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <rect x="14" y="44" width="116" height="24" rx="12" fill="#0F2C59"/>
+    <text x="72" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF">PHASE 1 · J-30 → J-1</text>
+    <text x="14" y="92" font-family="system-ui,sans-serif" font-weight="700" font-size="13" fill="#161616">Teasing &amp; Préparation</text>
+    <text x="14" y="114" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• 60 dirigeants invités (2 villes)</text>
+    <text x="14" y="134" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Teasing LinkedIn + Guide PDF</text>
+    <text x="14" y="154" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Site en ligne &amp; supports à J-3</text>
+    <text x="14" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Lancement LinkedIn Ads à J-1</text>
+
+    <rect x="233" y="30" width="214" height="160" rx="16" fill="#2563EB"/>
+    <rect x="247" y="44" width="114" height="24" rx="12" fill="#161616"/>
+    <text x="304" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#2563EB">PHASE 2 · JOUR J</text>
+    <text x="247" y="92" font-family="system-ui,sans-serif" font-weight="800" font-size="13" fill="#FFFFFF">Cyber Breakfast Live</text>
+    <text x="247" y="114" font-family="system-ui,sans-serif" font-size="11" fill="#EFF6FF">• Lomé &amp; Cotonou (30 DG/ville)</text>
+    <text x="247" y="134" font-family="system-ui,sans-serif" font-size="11" fill="#EFF6FF">• Démo attaque bloquée en direct</text>
+    <text x="247" y="154" font-family="system-ui,sans-serif" font-size="11" fill="#EFF6FF">• Scan QR table → Audit gratuit 2h</text>
+    <text x="247" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#EFF6FF">• Saisie Trello + WhatsApp 17h</text>
+
+    <rect x="466" y="30" width="214" height="160" rx="16" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <rect x="480" y="44" width="122" height="24" rx="12" fill="#0F2C59"/>
+    <text x="541" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF">PHASE 3 · J+1 → J+21</text>
+    <text x="480" y="92" font-family="system-ui,sans-serif" font-weight="700" font-size="13" fill="#161616">Amplification &amp; Closing</text>
+    <text x="480" y="114" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Vidéo résumé 1 min LinkedIn</text>
+    <text x="480" y="134" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Diagnostics 2h (J+5 à J+10)</text>
+    <text x="480" y="154" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Webinaire régional 5 pays (J+12)</text>
+    <text x="480" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#4B5563">• Point chiffré Codir à J+21</text>
+  </g>
+  <!-- 3T Bridges + Plan B -->
+  <g transform="translate(60,334)">
+    <rect width="680" height="132" rx="16" fill="#0F2C59"/>
+    <text x="22" y="30" font-family="system-ui,sans-serif" font-weight="800" font-size="13.5" fill="#2563EB">PASSERELLES PHYGITALE (MÉTHODE DES 3T) &amp; PLAN B LOI DE MURPHY</text>
+    <rect x="22" y="44" width="202" height="72" rx="12" fill="#173B72"/>
+    <text x="34" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="12.5" fill="#2563EB">1. TRAÇABLE</text>
+    <text x="34" y="86" font-family="system-ui,sans-serif" font-size="11" fill="#FFFFFF">1 QR code + UTM unique par</text>
+    <text x="34" y="102" font-family="system-ui,sans-serif" font-size="11" fill="#BFDBFE">support (Lomé, Cotonou, plaquette)</text>
+
+    <rect x="238" y="44" width="202" height="72" rx="12" fill="#173B72"/>
+    <text x="250" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="12.5" fill="#2563EB">2. TRANSITIF</text>
+    <text x="250" y="86" font-family="system-ui,sans-serif" font-size="11" fill="#FFFFFF">Renvoi direct vers formulaire 4</text>
+    <text x="250" y="102" font-family="system-ui,sans-serif" font-size="11" fill="#BFDBFE">champs ou WhatsApp Business</text>
+
+    <rect x="454" y="44" width="204" height="72" rx="12" fill="#173B72"/>
+    <text x="466" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="12.5" fill="#2563EB">3. TEMPOREL &amp; PLAN B</text>
+    <text x="466" y="86" font-family="system-ui,sans-serif" font-size="11" fill="#FFFFFF">J-14 RSVP · J0 Audit · J+7 Contrat</text>
+    <text x="466" y="102" font-family="system-ui,sans-serif" font-size="11" fill="#BFDBFE">2 box 4G + onduleur + vidéo USB</text>
+  </g>
+</svg>

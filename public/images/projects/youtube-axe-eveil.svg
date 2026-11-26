@@ -1,0 +1,48 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#EFF6FF"/>
+  <rect x="34" y="30" width="732" height="460" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <!-- Top bar -->
+  <rect x="34" y="30" width="732" height="68" rx="20" fill="#0F2C59"/>
+  <rect x="34" y="78" width="732" height="20" fill="#0F2C59"/>
+  <rect x="60" y="50" width="176" height="28" rx="14" fill="#2563EB"/>
+  <text x="148" y="69" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">YOUTUBE · MONÉTISÉE</text>
+  <text x="252" y="70" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Chaîne YouTube — Axe de l'Éveil (@AxedelEveil)</text>
+  <!-- Channel hero card -->
+  <g transform="translate(60,122)">
+    <rect width="680" height="148" rx="18" fill="#161616"/>
+    <circle cx="84" cy="74" r="46" fill="#2563EB"/>
+    <polygon points="73,54 73,94 106,74" fill="#161616"/>
+    <text x="154" y="56" font-family="system-ui,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">Axe de l'Éveil</text>
+    <text x="154" y="80" font-family="system-ui,sans-serif" font-weight="600" font-size="14" fill="#2563EB">youtube.com/@AxedelEveil</text>
+    <text x="154" y="106" font-family="system-ui,sans-serif" font-size="12.5" fill="#D1D5DB">Positionnement éditorial · Storytelling vidéo · SEO YouTube · Rétention &amp; Monétisation</text>
+    <rect x="520" y="48" width="136" height="52" rx="14" fill="#0F2C59" stroke="#2563EB" stroke-width="1.5"/>
+    <text x="588" y="71" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#2563EB">5 000+</text>
+    <text x="588" y="89" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">Abonnés actifs</text>
+  </g>
+  <!-- 3 Strategy pillars -->
+  <g transform="translate(60,296)">
+    <rect width="214" height="168" rx="16" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <rect x="16" y="16" width="96" height="24" rx="12" fill="#0F2C59"/>
+    <text x="64" y="32" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#FFFFFF">ÉDITORIAL</text>
+    <text x="16" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="15" fill="#161616">Storytelling &amp; Scripts</text>
+    <text x="16" y="90" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Structuration des accroches</text>
+    <text x="16" y="110" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Rythme narratif &amp; rétention</text>
+    <text x="16" y="130" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Ligne éditoriale différenciante</text>
+
+    <rect x="233" width="214" height="168" rx="16" fill="#EFF6FF" stroke="#BFDBFE"/>
+    <rect x="249" y="16" width="106" height="24" rx="12" fill="#2563EB"/>
+    <text x="302" y="32" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="11" fill="#FFFFFF">SEO YOUTUBE</text>
+    <text x="249" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="15" fill="#161616">Découvrabilité &amp; CTR</text>
+    <text x="249" y="90" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Recherche sujets &amp; mots-clés</text>
+    <text x="249" y="110" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Titres &amp; miniatures à fort CTR</text>
+    <text x="249" y="130" font-family="system-ui,sans-serif" font-size="11.5" fill="#4B5563">• Analyse YouTube Studio</text>
+
+    <rect x="466" width="214" height="168" rx="16" fill="#0F2C59"/>
+    <rect x="482" y="16" width="112" height="24" rx="12" fill="#2563EB"/>
+    <text x="538" y="32" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="11" fill="#FFFFFF">MONÉTISATION</text>
+    <text x="482" y="66" font-family="system-ui,sans-serif" font-weight="800" font-size="15" fill="#FFFFFF">Croissance Durable</text>
+    <text x="482" y="90" font-family="system-ui,sans-serif" font-size="11.5" fill="#DBEAFE">• Programme Partenaire validé</text>
+    <text x="482" y="110" font-family="system-ui,sans-serif" font-size="11.5" fill="#DBEAFE">• Communauté 5 000+ abonnés</text>
+    <text x="482" y="130" font-family="system-ui,sans-serif" font-size="11.5" fill="#2563EB">• Chaîne active &amp; monétisée</text>
+  </g>
+</svg>

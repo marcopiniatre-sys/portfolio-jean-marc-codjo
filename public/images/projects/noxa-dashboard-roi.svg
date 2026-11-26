@@ -1,0 +1,66 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#EFF6FF"/>
+  <rect x="34" y="30" width="732" height="460" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="34" y="30" width="732" height="68" rx="20" fill="#0F2C59"/>
+  <rect x="34" y="78" width="732" height="20" fill="#0F2C59"/>
+  <rect x="60" y="50" width="180" height="28" rx="14" fill="#2563EB"/>
+  <text x="150" y="69" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">TABLEAU DE BORD ROI</text>
+  <text x="256" y="70" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Tableau de Bord ROI / KPIs — NOXA IT (2027)</text>
+  <!-- Top 4 KPI cards -->
+  <g transform="translate(60,118)">
+    <rect width="160" height="92" rx="14" fill="#0F2C59"/>
+    <text x="16" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#2563EB">CA RÉCURRENT</text>
+    <text x="16" y="60" font-family="system-ui,sans-serif" font-weight="800" font-size="22" fill="#FFFFFF">84 M FCFA</text>
+    <text x="16" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#BFDBFE">14 contrats / 15 visés</text>
+
+    <rect x="173" width="160" height="92" rx="14" fill="#2563EB"/>
+    <text x="189" y="28" font-family="system-ui,sans-serif" font-weight="800" font-size="11" fill="#FFFFFF">ROI GLOBAL</text>
+    <text x="189" y="60" font-family="system-ui,sans-serif" font-weight="800" font-size="23" fill="#FFFFFF">1 277 %</text>
+    <text x="189" y="80" font-family="system-ui,sans-serif" font-weight="600" font-size="10.5" fill="#DBEAFE">~13,8 F gagnés / 1 F investi</text>
+
+    <rect x="346" width="160" height="92" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="362" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">LEADS &amp; AUDITS</text>
+    <text x="362" y="60" font-family="system-ui,sans-serif" font-weight="800" font-size="22" fill="#161616">140 leads</text>
+    <text x="362" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#0F2C59">70 diagnostics 2h réalisés</text>
+
+    <rect x="519" width="161" height="92" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="535" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">TAUX DE REBOND</text>
+    <text x="535" y="60" font-family="system-ui,sans-serif" font-weight="800" font-size="22" fill="#1D4ED8">46,1 %</text>
+    <text x="535" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#4B5563">Chute de -36 pts (vs 82%)</text>
+  </g>
+  <!-- Monthly leads & contracts bar chart -->
+  <g transform="translate(60,232)">
+    <rect width="415" height="232" rx="16" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="18" y="28" font-family="system-ui,sans-serif" font-weight="800" font-size="12.5" fill="#0F2C59">LEADS D'AUDIT PAR MOIS (TOTAL : 140 · 10 200 VISITES)</text>
+    <!-- 12 bars scaled to max 28 -->
+    <g transform="translate(22,195)" font-family="system-ui,sans-serif" font-size="9.5" fill="#6B7280" text-anchor="middle">
+      <rect x="0" y="-10" width="20" height="10" rx="4" fill="#9CA3AF"/><text x="10" y="16">Jan</text>
+      <rect x="31" y="-24" width="20" height="24" rx="4" fill="#0F2C59"/><text x="41" y="16">Fév</text>
+      <rect x="62" y="-116" width="20" height="116" rx="4" fill="#2563EB"/><text x="72" y="16">Mar</text>
+      <rect x="93" y="-135" width="20" height="135" rx="4" fill="#2563EB"/><text x="103" y="16">Avr</text>
+      <rect x="124" y="-68" width="20" height="68" rx="4" fill="#0F2C59"/><text x="134" y="16">Mai</text>
+      <rect x="155" y="-53" width="20" height="53" rx="4" fill="#0F2C59"/><text x="165" y="16">Jun</text>
+      <rect x="186" y="-44" width="20" height="44" rx="4" fill="#0F2C59"/><text x="196" y="16">Jul</text>
+      <rect x="217" y="-29" width="20" height="29" rx="4" fill="#DC2626"/><text x="227" y="16">Aoû</text>
+      <rect x="248" y="-58" width="20" height="58" rx="4" fill="#0F2C59"/><text x="258" y="16">Sep</text>
+      <rect x="279" y="-63" width="20" height="63" rx="4" fill="#0F2C59"/><text x="289" y="16">Oct</text>
+      <rect x="310" y="-48" width="20" height="48" rx="4" fill="#0F2C59"/><text x="320" y="16">Nov</text>
+      <rect x="341" y="-29" width="20" height="29" rx="4" fill="#9CA3AF"/><text x="351" y="16">Déc</text>
+    </g>
+  </g>
+  <!-- Right: Quoi / Donc / Et maintenant -->
+  <g transform="translate(492,232)">
+    <rect width="248" height="232" rx="16" fill="#0F2C59"/>
+    <text x="18" y="28" font-family="system-ui,sans-serif" font-weight="800" font-size="12.5" fill="#2563EB">SYNTHÈSE CODIR</text>
+    <text x="18" y="54" font-family="system-ui,sans-serif" font-weight="700" font-size="11.5" fill="#FFFFFF">1. QUOI ?</text>
+    <text x="18" y="70" font-family="system-ui,sans-serif" font-size="10.5" fill="#DBEAFE">84 M FCFA pour 6,1 M dépensés</text>
+    <text x="18" y="85" font-family="system-ui,sans-serif" font-size="10.5" fill="#DBEAFE">CAC : 435 714 FCFA · 14/15 clients</text>
+    <text x="18" y="110" font-family="system-ui,sans-serif" font-weight="700" font-size="11.5" fill="#FFFFFF">2. DONC ?</text>
+    <text x="18" y="126" font-family="system-ui,sans-serif" font-size="10.5" fill="#DBEAFE">Modèle très rentable. Creux d'août</text>
+    <text x="18" y="141" font-family="system-ui,sans-serif" font-size="10.5" fill="#DBEAFE">&amp; retard site T1 = -1 contrat</text>
+    <text x="18" y="166" font-family="system-ui,sans-serif" font-weight="700" font-size="11.5" fill="#2563EB">3. ET MAINTENANT ?</text>
+    <text x="18" y="183" font-family="system-ui,sans-serif" font-size="10.5" fill="#FFFFFF">• Relancer 6 PME auditées (15e client)</text>
+    <text x="18" y="199" font-family="system-ui,sans-serif" font-size="10.5" fill="#FFFFFF">• Vidéos clients → rebond &lt; 40 %</text>
+    <text x="18" y="215" font-family="system-ui,sans-serif" font-size="10.5" fill="#FFFFFF">• Relance été e-mail + WhatsApp</text>
+  </g>
+</svg>

@@ -1,0 +1,351 @@
+{
+  "config": {
+    "siteUrl": "https://jean-marc-codjo.vercel.app",
+    "formspreeEndpoint": "",
+    "showTestimonials": false,
+    "showBlog": true,
+    "enableThemeToggle": true,
+    "cvFiles": {
+      "fr": {
+        "label": "FR",
+        "path": "public/cv/CV-Jean-Marc-CODJO.pdf",
+        "filename": "CV-Jean-Marc-CODJO.pdf"
+      },
+      "en": null
+    }
+  },
+  "identity": {
+    "fullName": "Jean-Marc CODJO",
+    "displayName": "Jean-Marc Codjo",
+    "initials": "JMC",
+    "role": "Chef de Projet Marketing 360° • Stratégiste SEO, Contenu & Acquisition Digitale",
+    "shortRole": "Chef de Projet Marketing 360° & Stratégiste SEO",
+    "location": "Abomey-Calavi, Bénin (disponible à distance)",
+    "emailParts": {
+      "user": "marcopiniatre",
+      "domain": "gmail.com"
+    },
+    "phoneDisplay": "+229 01 66 57 88 80",
+    "whatsappUrl": "https://wa.me/2290166578880",
+    "linkedinUrl": "https://www.linkedin.com/in/jean-marc-codjo",
+    "linkedinDisplay": "linkedin.com/in/jean-marc-codjo",
+    "heroBadge": "Bonjour !",
+    "heroTitlePrefix": "Je suis",
+    "heroTitleHighlight": "Jean-Marc Codjo,",
+    "heroTitleSuffix": "Chef de Projet Marketing 360° & Stratégiste SEO basé au Bénin.",
+    "heroSubtitle": "Je transforme la stratégie éditoriale, le SEO et l'acquisition digitale en résultats mesurables.",
+    "signature": "Jean-Marc Codjo"
+  },
+  "marquee": [
+    "SEO",
+    "Copywriting",
+    "Marketing 360°",
+    "Croissance YouTube",
+    "Acquisition digitale",
+    "Gestion de projet",
+    "Développement commercial B2B"
+  ],
+  "about": {
+    "label": "À propos",
+    "titlePrefix": "Qui est",
+    "titleHighlight": "Jean-Marc Codjo ?",
+    "paragraphs": [
+      "Professionnel du marketing digital, de la communication 360° et de la stratégie éditoriale, avec plus de 5 ans d'expérience en référencement naturel (SEO), copywriting orienté conversion, campagnes d'acquisition et développement commercial B2B.",
+      "Actuellement en spécialisation Gestion de Projets Marketing 360° (OIF / D-CLIC) : audit 360°, plateforme de marque, planification opérationnelle et budgétaire (Gantt), coordination de prestataires (briefs, cahiers des charges, Kanban), communication phygitale et événementielle, pilotage de la performance (KPIs, ROI, tableaux de bord). Certifié en marketing digital (Meta/Coursera, FORCE-N, OIF), intelligence artificielle (Banque Mondiale / Microsoft Elevate) et vente de solutions de cybersécurité (Kaspersky)."
+    ],
+    "pills": [
+      "Marketing 360°",
+      "Stratégie SEO",
+      "Copywriting",
+      "Croissance YouTube",
+      "Pilotage ROI & KPIs",
+      "Développement B2B"
+    ],
+    "stats": [
+      { "value": "5+", "numeric": 5, "suffix": "+", "label": "Années d'expérience", "placeholder": false },
+      { "value": "5", "numeric": 5, "suffix": "", "label": "Employeurs & clients (Bénin, France)", "placeholder": false },
+      { "value": "7+", "numeric": 7, "suffix": "+", "label": "Certifications validées", "placeholder": false },
+      { "value": "4", "numeric": 4, "suffix": "", "label": "Langues parlées", "placeholder": false },
+      { "value": "6", "numeric": 6, "suffix": "", "label": "Projets réalisés présentés", "placeholder": false }
+    ]
+  },
+  "services": [
+    {
+      "id": "seo",
+      "icon": "search",
+      "title": "SEO & stratégie éditoriale",
+      "short": "Recherche de mots-clés, briefs éditoriaux, plans de contenu orientés acquisition organique, SEO on-page et sémantique, maillage interne et netlinking.",
+      "deliverables": [
+        "Recherche de mots-clés stratégiques & cartographie des intentions de recherche",
+        "Conception de briefs éditoriaux complets (balisage Hn, champ lexical, maillage interne)",
+        "Enrichissement sémantique (YourTextGuru, Semrush) & optimisation SEO on-page",
+        "Rédaction de contenus de fond et articles sponsorisés conformes aux critères netlinking"
+      ]
+    },
+    {
+      "id": "copywriting",
+      "icon": "pen",
+      "title": "Copywriting orienté conversion",
+      "short": "Pages de services, landing pages, fiches-produits et articles optimisés pour la conversion client et le référencement naturel.",
+      "deliverables": [
+        "Rédaction persuasive de landing pages et pages d'offres B2B/B2C",
+        "Pages de services et fiches-produits structurées pour convertir",
+        "Guides PDF, études de cas et argumentaires adaptés aux décideurs (DG, DSI)",
+        "Alignement éditorial entre promesse de marque (UVP) et objectifs commerciaux"
+      ]
+    },
+    {
+      "id": "marketing-360",
+      "icon": "compass",
+      "title": "Gestion de projets marketing 360°",
+      "short": "Audit 360°, plateforme de marque, plan d'action, rétro-planning (Gantt), budget, coordination de prestataires et pilotage Kanban.",
+      "deliverables": [
+        "Audit stratégique (méthode Démarrer / Arrêter / Continuer) & segmentation comportementale",
+        "Plan d'action QQOQCCP, rétro-planning Gantt avec marges de sécurité (+20 %)",
+        "Budgétisation par masses de coûts avec provision imprévus (+10 %) & suivi prévisionnel/réalisé",
+        "Cahiers des charges, briefs créatifs, suivi Kanban/Trello et reporting Codir (KPIs, ROI)"
+      ]
+    },
+    {
+      "id": "youtube",
+      "icon": "play",
+      "title": "Croissance & stratégie YouTube",
+      "short": "Positionnement éditorial, storytelling vidéo, SEO YouTube, optimisation de la rétention d'audience et stratégies de monétisation.",
+      "deliverables": [
+        "Positionnement de chaîne, ligne éditoriale et architecture de formats",
+        "Storytelling vidéo, optimisation des scripts, accroches et parcours spectateur",
+        "SEO YouTube (titres, mots-clés, descriptions) & analyse YouTube Studio",
+        "Stratégies de rétention d'audience et de monétisation pour créateurs et marques"
+      ]
+    },
+    {
+      "id": "acquisition",
+      "icon": "megaphone",
+      "title": "Acquisition digitale & publicité",
+      "short": "Conception et pilotage de campagnes multicanales : Google Ads, Meta/Facebook Ads, YouTube Ads et email marketing.",
+      "deliverables": [
+        "Campagnes publicitaires ciblées (Google Ads, Meta/Facebook Ads, YouTube Ads)",
+        "Campagnes B2B LinkedIn Ads & dispositifs phygital / événementiel (passerelles QR 3T)",
+        "Séquences d'email marketing et scénarios de relance prospects",
+        "Suivi des indicateurs business (CPA, CAC, LTV, ROI) et optimisation continue"
+      ]
+    },
+    {
+      "id": "b2b",
+      "icon": "briefcase",
+      "title": "Développement commercial B2B",
+      "short": "Prospection ciblée, qualification des besoins entreprises, structuration d'argumentaires et accompagnement de la relation client.",
+      "deliverables": [
+        "Prospection B2B structurée et qualification des besoins décideurs",
+        "Élaboration d'argumentaires commerciaux et supports d'aide à la vente",
+        "Relation client et suivi du portefeuille sur solutions technologiques & cybersécurité",
+        "Expertise certifiée sur les gammes Kaspersky Next EDR Foundations & Optimum"
+      ]
+    }
+  ],
+  "tools": [
+    { "name": "Semrush", "category": "SEO", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "SR", "color": "#2563EB" },
+    { "name": "YourTextGuru", "category": "Sémantique SEO", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "YT", "color": "#1D4ED8" },
+    { "name": "Google Search Console", "category": "Indexation & Data", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "GSC", "color": "#0F2C59" },
+    { "name": "Excel / Google Sheets", "category": "Budget & Pilotage", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "XL", "color": "#1E40AF" },
+    { "name": "Trello", "category": "Gestion Kanban", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "TR", "color": "#0284C7" },
+    { "name": "Microsoft Copilot & IA", "category": "IA Générative", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "AI", "color": "#2563EB" },
+    { "name": "Adobe Photoshop", "category": "Design Visuel", "proposedLevel": "Intermédiaire", "segments": 2, "validated": true, "abbr": "Ps", "color": "#0F2C59" },
+    { "name": "Canva", "category": "Création & Supports", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "Cv", "color": "#0284C7" },
+    { "name": "CapCut", "category": "Montage Vidéo", "proposedLevel": "Intermédiaire", "segments": 2, "validated": true, "abbr": "CC", "color": "#1E293B" },
+    { "name": "Google Ads", "category": "Paid Search", "proposedLevel": "Intermédiaire", "segments": 2, "validated": true, "abbr": "GA", "color": "#1D4ED8" },
+    { "name": "Meta Ads", "category": "Paid Social", "proposedLevel": "Avancé", "segments": 3, "validated": true, "abbr": "MA", "color": "#2563EB" },
+    { "name": "Python", "category": "Notions / Bases", "proposedLevel": "Bases", "segments": 1, "validated": true, "abbr": "Py", "color": "#0F2C59" }
+  ],
+  "education": [
+    {
+      "period": "Août 2026 – En cours",
+      "title": "Parcours de spécialisation : Gestion de Projets Marketing 360°",
+      "institution": "OIF — Programme D-CLIC",
+      "details": "5 séquences, 25 modules, 100 chapitres, 5 missions tutorées & portfolio : audit 360°, plateforme de marque, plan d'action, Gantt, budget, briefs et cahiers des charges, Kanban/Trello, campagnes phygitales, relations publiques, KPIs (CPA, LTV), ROI, dataviz et reporting exécutif."
+    },
+    {
+      "period": "Juillet 2025",
+      "title": "Licence (LMD) en Lettres Modernes — Mention Très Bien",
+      "institution": "Université d'Abomey-Calavi (FLLAC), Bénin",
+      "details": "Rédaction stratégique, analyse de discours, storytelling et communication écrite."
+    }
+  ],
+  "experience": [
+    {
+      "period": "2025 – Présent",
+      "title": "Assistant Marketing & Développement Commercial",
+      "company": "Solutions Cybersécurité B2B — Bénin",
+      "details": "Prospection B2B, qualification des besoins, relation client, actions marketing opérationnelles, argumentaires et suivi du portefeuille ; certifié Sales Specialist Kaspersky Next EDR Foundations & Optimum."
+    },
+    {
+      "period": "Juin 2024 – Oct. 2025",
+      "title": "Copywriter & Spécialiste SEO",
+      "company": "HONADI AGENCIES — Abomey-Calavi / Cotonou",
+      "details": "Stratégie et architecture éditoriale, recherche de mots-clés, briefs, plans de contenu ; copywriting orienté conversion (pages de services, landing pages, fiches-produits) ; SEO on-page (YourTextGuru, Semrush), maillage interne et amélioration structurelle de sites clients."
+    },
+    {
+      "period": "2022 – Présent",
+      "title": "Consultant Stratégie & Croissance YouTube",
+      "company": "Indépendant (Freelance)",
+      "details": "Accompagnement de créateurs et de marques (positionnement, storytelling, SEO YouTube, rétention, monétisation) ; pilotage de chaînes propres, analyse de données (YouTube Studio), optimisation des scripts, titres et parcours spectateur."
+    },
+    {
+      "period": "Janv. 2021 – Juil. 2024",
+      "title": "Directeur de la Communication & Marketing",
+      "company": "KPAMEMA SARL — Comé, Bénin",
+      "details": "Communication 360° interne et externe (Import-Export, BTP & GED), campagnes multicanales d'acquisition et de visibilité, suivi des KPIs d'engagement et de portée, reporting et optimisation continue."
+    },
+    {
+      "period": "Juil. 2020 – Juil. 2022",
+      "title": "Rédacteur Web SEO",
+      "company": "SEMJuice — France (Télétravail)",
+      "details": "Articles sponsorisés et contenus de fond selon chartes strictes et critères de netlinking ; briefs détaillés (balisage Hn, intentions de recherche, champ lexical)."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Gestion de Projets Marketing 360°",
+      "issuer": "OIF / Programme D-CLIC",
+      "date": "Août 2026 – En cours",
+      "category": "Marketing 360°",
+      "code": "",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Social Media Marketing",
+      "issuer": "Meta / Coursera",
+      "date": "Août 2026",
+      "category": "Marketing Digital",
+      "code": "JEOKZYIIGS8C",
+      "verifyUrl": "https://coursera.org/verify/JEOKZYIIGS8C"
+    },
+    {
+      "title": "Certificat en Marketing Digital",
+      "issuer": "FORCE-N (UN-CHK / ADPME / Mastercard Foundation)",
+      "date": "Juil. 2026",
+      "category": "Marketing Digital",
+      "code": "",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Formation professionnalisante en Marketing Numérique",
+      "issuer": "OIF / Programme D-CLIC",
+      "date": "Fév. 2026",
+      "category": "Marketing Digital",
+      "code": "ssmaBmxw7N",
+      "verifyUrl": ""
+    },
+    {
+      "title": "AI for Africa's Future (3 certificats validés)",
+      "issuer": "World Bank Group, Microsoft Elevate & ImpactEra",
+      "date": "Oct. 2026",
+      "category": "Intelligence Artificielle",
+      "code": "",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Microsoft Copilot (IA & Productivité)",
+      "issuer": "MTN Skills",
+      "date": "Août 2026",
+      "category": "Intelligence Artificielle",
+      "code": "",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Sales Specialist : Kaspersky Next Optimum (S47.2) & EDR Foundations (S46.1)",
+      "issuer": "Kaspersky Certification",
+      "date": "Oct. 2026",
+      "category": "Cybersécurité B2B",
+      "code": "S47.2-231485 / S46.1-229592",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Formation Python",
+      "issuer": "OpenClassrooms",
+      "date": "2025",
+      "category": "Tech & Data",
+      "code": "",
+      "verifyUrl": ""
+    }
+  ],
+  "languages": [
+    { "name": "Français", "level": "C2 — Natif / Excellent" },
+    { "name": "Anglais", "level": "Professionnel / Intermédiaire" },
+    { "name": "Fon", "level": "Courant" },
+    { "name": "Mina", "level": "Courant" }
+  ],
+  "method": [
+    {
+      "step": "01",
+      "title": "Audit 360° & Plateforme de Marque",
+      "highlighted": false,
+      "summary": "Poser un diagnostic lucide avant toute dépense marketing.",
+      "points": [
+        "Diagnostic terrain (Démarrer / Arrêter / Continuer)",
+        "Tri des indicateurs : Business Metrics vs Vanity Metrics",
+        "Segmentation comportementale des profils décisionnels",
+        "Proposition de valeur unique (UVP) & veille concurrentielle"
+      ]
+    },
+    {
+      "step": "02",
+      "title": "Plan d'Action, Rétro-planning & Budget",
+      "highlighted": true,
+      "summary": "Transformer la stratégie en feuille de route chiffrée et réaliste.",
+      "points": [
+        "Découpage opérationnel (QQOQCCP & matrice d'Eisenhower)",
+        "Diagramme de Gantt avec dépendances & marges +20 %",
+        "Budget par 4 masses de coûts & benchmark marché",
+        "Provision Loi de Murphy (+10 %) & suivi prévisionnel/réalisé"
+      ]
+    },
+    {
+      "step": "03",
+      "title": "Pilotage & Coordination Prestataires",
+      "highlighted": false,
+      "summary": "Orchestrer les équipes internes, créatifs et prestataires sans friction.",
+      "points": [
+        "Rédaction de briefs créatifs & cahiers des charges (CDC)",
+        "Sélection prestataires, lecture de devis & recettage",
+        "Tour de contrôle collaborative sur Kanban / Trello",
+        "Animation de réunions & comptes rendus actionnables (RIDA)"
+      ]
+    },
+    {
+      "step": "04",
+      "title": "Mesure : KPIs, ROI & Reporting",
+      "highlighted": false,
+      "summary": "Rendre chaque action mesurable et éclairer les décisions Codir.",
+      "points": [
+        "Sélection des KPIs clés (CAC/CPA, LTV, taux de rebond, ROI)",
+        "Tableaux de bord automatisés (Excel / Sheets, Dataviz)",
+        "Analyse des écarts mensuels & actions correctives rapides",
+        "Synthèse managériale claire (Quoi / Donc / Et maintenant)"
+      ]
+    }
+  ],
+  "testimonials": [],
+  "faq": [
+    {
+      "question": "Quels services proposez-vous ?",
+      "answer": "J'interviens sur 6 volets complémentaires : le SEO & la stratégie éditoriale, le copywriting orienté conversion (landing pages, pages de services, fiches-produits), la gestion de projets marketing 360° (audit, plan d'action, Gantt, budget, coordination prestataires, reporting KPIs/ROI), la stratégie et croissance YouTube, les campagnes d'acquisition digitale (Google Ads, Meta Ads, YouTube Ads, email marketing) et le développement commercial B2B."
+    },
+    {
+      "question": "Travaillez-vous à distance ?",
+      "answer": "Oui. Basé à Abomey-Calavi au Bénin, je travaille régulièrement à distance avec des entreprises, agences et créateurs en Afrique francophone et en Europe — comme lors de mes 2 années de collaboration en télétravail avec SEMJuice (France) ou mes missions d'accompagnement YouTube."
+    },
+    {
+      "question": "Comment démarre une collaboration ?",
+      "answer": "Chaque mission débute par un échange de cadrage suivi d'un diagnostic clair (méthode Démarrer / Arrêter / Continuer) pour identifier les freins et leviers prioritaires. J'établis ensuite un plan d'action structuré (QQOQCCP, rétro-planning avec marges de sécurité, budget et KPIs de succès) avant de lancer l'exécution et le pilotage."
+    },
+    {
+      "question": "Quels secteurs avez-vous déjà accompagnés ?",
+      "answer": "Mon parcours couvre les solutions informatiques et la cybersécurité B2B (notamment autour des solutions Kaspersky), les agences digitales et le SEO/netlinking (HONADI AGENCIES, SEMJuice), les secteurs Import-Export, BTP et Gestion Électronique de Documents (KPAMEMA SARL), ainsi que l'écosystème des créateurs et marques sur YouTube."
+    },
+    {
+      "question": "Êtes-vous disponible pour un poste en entreprise ou des missions freelance ?",
+      "answer": "Je suis ouvert aux opportunités stratégiques en marketing digital, gestion de projets marketing 360° ou stratégie SEO/contenu — en collaboration entreprise/agence comme sur des missions d'accompagnement ciblées. Contactez-moi via le formulaire ou WhatsApp pour échanger sur votre besoin."
+    }
+  ]
+}

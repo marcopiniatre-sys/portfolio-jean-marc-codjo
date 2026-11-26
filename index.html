@@ -1,0 +1,632 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jean-Marc CODJO — Chef de Projet Marketing 360° &amp; Stratégiste SEO</title>
+  <meta name="description" content="Portfolio de Jean-Marc CODJO, Chef de Projet Marketing 360°, Stratégiste SEO, Copywriter & Acquisition Digitale basé au Bénin (disponible à distance). Audit 360°, Gantt, budget, croissance YouTube et études de cas réelles.">
+  <meta name="author" content="Jean-Marc CODJO">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0F2C59">
+
+  <!-- Open Graph & Twitter -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="Jean-Marc CODJO — Chef de Projet Marketing 360° &amp; Stratégiste SEO">
+  <meta property="og:description" content="Je transforme la stratégie éditoriale, le SEO et l'acquisition digitale en résultats mesurables. Découvrez mes services, études de cas 360° et téléchargez mon CV.">
+  <meta property="og:image" content="public/images/og-cover.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Jean-Marc CODJO — Chef de Projet Marketing 360° &amp; Stratégiste SEO">
+  <meta name="twitter:description" content="Stratégie éditoriale, SEO, copywriting orienté conversion, gestion de projets marketing 360° et croissance YouTube.">
+
+  <link rel="icon" type="image/svg+xml" href="public/images/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Données structurées Schema.org (Person + WebSite) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "name": "Jean-Marc CODJO",
+        "jobTitle": "Chef de Projet Marketing 360° & Stratégiste SEO",
+        "description": "Professionnel du marketing digital, de la communication 360°, du SEO, du copywriting orienté conversion et du développement commercial B2B.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Abomey-Calavi",
+          "addressCountry": "BJ"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/in/jean-marc-codjo"
+        ],
+        "knowsLanguage": ["fr", "en", "fon", "gej"],
+        "alumniOf": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "Université d'Abomey-Calavi (FLLAC)"
+          },
+          {
+            "@type": "Organization",
+            "name": "Organisation Internationale de la Francophonie (OIF) — Programme D-CLIC"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "name": "Portfolio Jean-Marc CODJO",
+        "inLanguage": "fr-FR",
+        "description": "Portfolio professionnel de Jean-Marc CODJO — Chef de Projet Marketing 360° et Stratégiste SEO."
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
+  <a href="#main-content" class="skip-link">Aller au contenu principal</a>
+
+  <!-- 1. NAVBAR FLOTTANTE EN PILULE VERTE -->
+  <header class="site-header" id="site-header">
+    <nav class="navbar" aria-label="Navigation principale">
+      <a href="#accueil" class="brand" aria-label="Accueil Jean-Marc Codjo">
+        <span class="brand-mark" aria-hidden="true">JMC</span>
+        <span>Jean-Marc<span class="brand-dot">.</span></span>
+      </a>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#accueil" class="active">Accueil</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#apropos">À propos</a></li>
+        <li><a href="#projets">Projets</a></li>
+        <li><a href="#parcours">Parcours</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Basculer le thème clair / sombre" title="Changer de thème">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+
+        <a href="public/cv/CV-Jean-Marc-CODJO.pdf" download="CV-Jean-Marc-CODJO.pdf" class="btn-pill btn-pill-white btn-cv nav-cv-desktop" data-cv-source="navbar">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          <span class="cv-btn-label">Télécharger mon CV</span>
+        </a>
+
+        <button type="button" class="burger-btn" id="burger-btn" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mobile-menu">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Menu mobile -->
+  <div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+    <div class="mobile-menu-panel" role="dialog" aria-modal="true" aria-label="Menu mobile">
+      <div class="mobile-menu-head">
+        <span class="brand">
+          <span class="brand-mark">JMC</span>
+          <span>Jean-Marc<span class="brand-dot">.</span></span>
+        </span>
+        <button type="button" class="burger-btn" id="close-menu-btn" aria-label="Fermer le menu">✕</button>
+      </div>
+      <ul class="mobile-nav-list">
+        <li><a href="#accueil">Accueil</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#apropos">À propos</a></li>
+        <li><a href="#projets">Projets</a></li>
+        <li><a href="#parcours">Parcours</a></li>
+        <li><a href="#methode">Ma méthode</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <a href="public/cv/CV-Jean-Marc-CODJO.pdf" download="CV-Jean-Marc-CODJO.pdf" class="btn-pill btn-pill-amber btn-cv" style="width:100%" data-cv-source="mobile-menu">
+        <span class="cv-btn-label">Télécharger mon CV (PDF)</span>
+        <span class="btn-circle" aria-hidden="true">↓</span>
+      </a>
+    </div>
+  </div>
+
+  <main id="main-content">
+
+    <!-- 2. HERO -->
+    <section class="hero" id="accueil">
+      <div class="container hero-grid">
+        <div class="hero-copy reveal">
+          <div class="hello-badge">
+            <span class="c1" aria-hidden="true"></span>
+            <span class="c2" aria-hidden="true"></span>
+            <span class="c3" aria-hidden="true"></span>
+            <span class="c4" aria-hidden="true"></span>
+            Bonjour !
+          </div>
+
+          <h1 class="hero-title">
+            Je suis <span class="hero-name">Jean-Marc Codjo,</span><br>
+            Chef de Projet Marketing 360° &amp; Stratégiste SEO basé au Bénin.
+          </h1>
+
+          <div class="hero-ticker-wrap" aria-live="polite">
+            <span class="hero-ticker-dot" aria-hidden="true"></span>
+            <span class="hero-ticker-prefix">Expertise active :</span>
+            <span class="hero-ticker-word" id="hero-ticker-word">Gestion de Projets Marketing 360°</span>
+          </div>
+
+          <p class="hero-subtitle">
+            Je transforme la stratégie éditoriale, le SEO et l'acquisition digitale en résultats mesurables.
+          </p>
+
+          <div class="hero-cta">
+            <a href="#projets" class="btn-pill btn-pill-green">
+              <span>Voir mes projets</span>
+              <span class="btn-circle" aria-hidden="true">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+              </span>
+            </a>
+
+            <a href="public/cv/CV-Jean-Marc-CODJO.pdf" download="CV-Jean-Marc-CODJO.pdf" class="btn-pill btn-pill-outline btn-cv" data-cv-source="hero">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span class="cv-btn-label">Télécharger mon CV</span>
+            </a>
+          </div>
+
+          <div class="hero-meta">
+            <span class="hero-meta-item">
+              <span class="status-dot" aria-hidden="true"></span>
+              Abomey-Calavi, Bénin · Disponible à distance
+            </span>
+            <span class="hero-meta-item">
+              Spécialisation OIF / D-CLIC Marketing 360°
+            </span>
+          </div>
+        </div>
+
+        <div class="hero-visual reveal">
+          <div class="hero-blob">
+            <div class="hero-blob-bg" aria-hidden="true"></div>
+            <div class="hero-portrait-clip">
+              <img
+                src="public/images/portrait-cutout.png"
+                alt="Portrait professionnel de Jean-Marc CODJO, Chef de Projet Marketing 360° et Stratégiste SEO"
+                class="hero-portrait"
+                width="620"
+                height="775"
+                fetchpriority="high"
+              >
+            </div>
+
+            <!-- Badge circulaire rotatif -->
+            <div class="rotating-badge" aria-hidden="true">
+              <svg class="ring" viewBox="0 0 100 100">
+                <defs>
+                  <path id="badge-circle" d="M 50, 50 m -36, 0 a 36,36 0 1,1 72,0 a 36,36 0 1,1 -72,0"/>
+                </defs>
+                <text font-size="8.6" font-weight="800" fill="#FFFFFF" letter-spacing="1.6">
+                  <textPath href="#badge-circle">SEO • MARKETING 360° • STRATÉGIE •</textPath>
+                </text>
+              </svg>
+              <span class="center-arrow">↗</span>
+            </div>
+
+            <!-- Étiquettes flottantes -->
+            <div class="floating-tag tag-green">5+ ans d'expérience</div>
+            <div class="floating-tag tag-amber">Stratégiste SEO</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. BANDEAU DÉFILANT JAUNE INCLINÉ -->
+    <div class="marquee-band tilted" aria-label="Domaines clés">
+      <div class="marquee-track" id="marquee-top"></div>
+    </div>
+
+    <!-- 4. SERVICES -->
+    <section class="section" id="services">
+      <div class="container">
+        <div class="section-head split reveal">
+          <div>
+            <span class="section-label">Services</span>
+            <h2 class="section-title">Mes <span class="highlight">Services</span></h2>
+          </div>
+          <a href="#contact" class="btn-pill btn-pill-green">
+            <span>Discuter d'un besoin</span>
+            <span class="btn-circle" aria-hidden="true">→</span>
+          </a>
+        </div>
+
+        <div class="services-grid" id="services-grid"></div>
+      </div>
+    </section>
+
+    <!-- 5. À PROPOS (GRANDE SECTION VERTE ARRONDIE) -->
+    <section class="section-green-wrap" id="apropos">
+      <div class="container">
+        <div class="section-green">
+          <div class="about-grid">
+            <div class="about-visual reveal">
+              <div class="about-circle-frame">
+                <img
+                  src="public/images/portrait-cutout.png"
+                  alt="Jean-Marc CODJO — Portrait professionnel"
+                  loading="lazy"
+                  width="620"
+                  height="775"
+                >
+              </div>
+              <div class="about-pills" id="about-pills"></div>
+            </div>
+
+            <div class="about-text reveal">
+              <span class="section-label">À propos</span>
+              <h2 class="section-title">Qui est <span class="highlight">Jean-Marc Codjo ?</span></h2>
+              <div id="about-paragraphs"></div>
+              <div class="stats-grid" id="about-stats"></div>
+              <div class="about-footer">
+                <a href="public/cv/CV-Jean-Marc-CODJO.pdf" download="CV-Jean-Marc-CODJO.pdf" class="btn-pill btn-pill-amber btn-cv" data-cv-source="about">
+                  <span class="cv-btn-label">Télécharger mon CV</span>
+                  <span class="btn-circle" aria-hidden="true">↓</span>
+                </a>
+                <span class="signature" aria-label="Signature Jean-Marc Codjo">Jean-Marc Codjo</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. OUTILS -->
+    <section class="section" id="outils">
+      <div class="container">
+        <div class="section-head centered reveal">
+          <span class="section-label">Mes Outils Préférés</span>
+          <h2 class="section-title">Les <span class="highlight">Outils</span> derrière mes stratégies</h2>
+          <p class="section-subtitle">
+            Un écosystème complet couvrant le SEO, la sémantique, la gestion budgétaire, la coordination Kanban, l'acquisition paid media et l'IA générative.
+          </p>
+        </div>
+
+        <div class="tools-grid" id="tools-grid"></div>
+      </div>
+    </section>
+
+    <!-- 7. PROJETS / ÉTUDES DE CAS -->
+    <section class="section" id="projets" style="background: var(--bg-soft);">
+      <div class="container">
+        <div class="section-head split reveal">
+          <div>
+            <span class="section-label">Portfolio &amp; Études de cas</span>
+            <h2 class="section-title">Mes Derniers <span class="highlight">Projets</span></h2>
+            <p class="section-subtitle" style="margin-top:8px;">
+              Projets réalisés dans le cadre de la formation en Gestion de Projets Marketing 360° (NOXA IT) et gestion de chaîne YouTube monétisée. Cliquez sur un projet pour dérouler les détails.
+            </p>
+          </div>
+          <a href="#contact" class="btn-pill btn-pill-green">
+            <span>Proposer un projet</span>
+            <span class="btn-circle" aria-hidden="true">→</span>
+          </a>
+        </div>
+
+        <div class="filter-bar reveal" id="project-filters" role="tablist" aria-label="Filtrer les projets par catégorie"></div>
+        <div class="projects-grid" id="projects-grid"></div>
+      </div>
+    </section>
+
+    <!-- 8. PARCOURS ACADÉMIQUE & PROFESSIONNEL + CERTIFICATIONS + LANGUES -->
+    <section class="section" id="parcours">
+      <div class="container">
+        <div class="section-head centered reveal">
+          <span class="section-label">Formation &amp; Expérience</span>
+          <h2 class="section-title">Mon Parcours <span class="highlight">Académique &amp; Professionnel</span></h2>
+        </div>
+
+        <div class="journey-grid">
+          <article class="journey-card reveal">
+            <div class="journey-head">
+              <span class="journey-icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+              </span>
+              <h3>Formation</h3>
+            </div>
+            <div class="timeline" id="education-timeline"></div>
+          </article>
+
+          <article class="journey-card reveal">
+            <div class="journey-head">
+              <span class="journey-icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+              </span>
+              <h3>Expérience Professionnelle</h3>
+            </div>
+            <div class="timeline" id="experience-timeline"></div>
+          </article>
+        </div>
+
+        <div class="certs-wrapper reveal">
+          <h3 class="sub-heading">
+            <span class="highlight">★</span> Certifications &amp; Attestations
+          </h3>
+          <div class="certs-grid" id="certs-grid"></div>
+
+          <div class="langs-strip">
+            <div>
+              <strong>Langues parlées</strong>
+              <p style="font-size:0.84rem;color:var(--text-secondary);">Communication multilingue en environnement francophone et international</p>
+            </div>
+            <div class="langs-list" id="langs-list"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9. MA MÉTHODE EN 4 ÉTAPES (GRANDE SECTION VERTE) -->
+    <section class="section-green-wrap" id="methode">
+      <div class="container">
+        <div class="section-green">
+          <div class="section-head split reveal">
+            <div>
+              <span class="section-label">Approche Marketing 360°</span>
+              <h2 class="section-title">Ma <span class="highlight">Méthode</span> en 4 Étapes</h2>
+            </div>
+            <a href="#contact" class="btn-pill btn-pill-amber">
+              <span>Démarrer un audit</span>
+              <span class="btn-circle" aria-hidden="true">→</span>
+            </a>
+          </div>
+
+          <div class="method-grid" id="method-grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 10. CONTACT -->
+    <section class="section" id="contact">
+      <div class="container">
+        <div class="contact-grid">
+          <div class="reveal">
+            <span class="section-label">Contact</span>
+            <h2 class="section-title">Parlons de <span class="highlight">Votre Projet</span></h2>
+            <p class="section-subtitle" style="margin-top:12px;">
+              Besoin d'un audit 360°, d'une stratégie SEO/copywriting, d'un accompagnement YouTube ou d'un renfort marketing &amp; développement commercial B2B ? Écrivez-moi directement.
+            </p>
+
+            <div class="contact-cards">
+              <a href="https://wa.me/2290166578880" target="_blank" rel="noopener noreferrer" class="contact-item">
+                <span class="contact-icon" aria-hidden="true">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                </span>
+                <div>
+                  <div class="contact-item-label">Téléphone &amp; WhatsApp</div>
+                  <div class="contact-item-value">+229 01 66 57 88 80</div>
+                </div>
+              </a>
+
+              <a href="#contact-form" class="contact-item" id="email-contact-link">
+                <span class="contact-icon" aria-hidden="true">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                </span>
+                <div>
+                  <div class="contact-item-label">E-mail professionnel (protégé anti-spam)</div>
+                  <div class="contact-item-value" id="email-contact-value">Chargement…</div>
+                </div>
+              </a>
+
+              <a href="https://www.linkedin.com/in/jean-marc-codjo" target="_blank" rel="noopener noreferrer" class="contact-item">
+                <span class="contact-icon" aria-hidden="true">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+                </span>
+                <div>
+                  <div class="contact-item-label">LinkedIn</div>
+                  <div class="contact-item-value">linkedin.com/in/jean-marc-codjo</div>
+                </div>
+              </a>
+
+              <div class="contact-item">
+                <span class="contact-icon" aria-hidden="true">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                </span>
+                <div>
+                  <div class="contact-item-label">Localisation</div>
+                  <div class="contact-item-value">Abomey-Calavi, Bénin (disponible à distance)</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-form-card reveal">
+            <form id="contact-form" novalidate>
+              <!-- Champ honeypot anti-spam -->
+              <div class="hp-field" aria-hidden="true">
+                <label for="website">Ne pas remplir</label>
+                <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+              </div>
+
+              <div class="form-grid">
+                <div class="form-field">
+                  <label for="name">Votre nom *</label>
+                  <input type="text" id="name" name="name" placeholder="Ex. Amina K." required autocomplete="name">
+                </div>
+
+                <div class="form-field">
+                  <label for="email">Votre e-mail *</label>
+                  <input type="email" id="email" name="email" placeholder="vous@entreprise.com" required autocomplete="email">
+                </div>
+
+                <div class="form-field full">
+                  <label for="subject">Sujet *</label>
+                  <select id="subject" name="subject" required>
+                    <option value="">Choisir un sujet…</option>
+                    <option value="Opportunité de recrutement (CDI / CDD)">Opportunité de recrutement (CDI / CDD)</option>
+                    <option value="Gestion de projet Marketing 360°">Gestion de projet Marketing 360°</option>
+                    <option value="SEO & Stratégie éditoriale">SEO &amp; Stratégie éditoriale</option>
+                    <option value="Copywriting orienté conversion">Copywriting orienté conversion</option>
+                    <option value="Croissance & Stratégie YouTube">Croissance &amp; Stratégie YouTube</option>
+                    <option value="Acquisition digitale / B2B">Acquisition digitale / Développement B2B</option>
+                    <option value="Autre demande">Autre demande</option>
+                  </select>
+                </div>
+
+                <div class="form-field full">
+                  <label for="message">Votre message *</label>
+                  <textarea id="message" name="message" placeholder="Décrivez brièvement votre projet, vos objectifs ou l'opportunité…" required minlength="15"></textarea>
+                </div>
+
+                <div class="form-field full">
+                  <button type="submit" class="btn-pill btn-pill-green" id="contact-submit" style="width:fit-content;">
+                    <span>Envoyer le message</span>
+                    <span class="btn-circle" aria-hidden="true">→</span>
+                  </button>
+                </div>
+              </div>
+
+              <div class="form-feedback" id="form-feedback" role="status" aria-live="polite"></div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 11. TÉMOIGNAGES (MASQUABLE VIA data/site.json — AUCUN TÉMOIGNAGE INVENTÉ) -->
+    <section class="section" id="temoignages" style="background: var(--bg-soft);">
+      <div class="container">
+        <div class="section-head centered reveal">
+          <span class="section-label">Témoignages</span>
+          <h2 class="section-title">L'Impact de <span class="highlight">Mon Travail</span></h2>
+        </div>
+        <div id="testimonials-container" class="reveal"></div>
+      </div>
+    </section>
+
+    <!-- 12. ARTICLES & RESSOURCES (BLOG) -->
+    <section class="section" id="articles">
+      <div class="container">
+        <div class="section-head split reveal">
+          <div>
+            <span class="section-label">Articles &amp; Ressources</span>
+            <h2 class="section-title">Mes Derniers <span class="highlight">Articles</span></h2>
+          </div>
+          <a href="#contact" class="btn-pill btn-pill-green">
+            <span>Suggérer un sujet</span>
+            <span class="btn-circle" aria-hidden="true">→</span>
+          </a>
+        </div>
+
+        <div class="blog-grid" id="blog-grid"></div>
+      </div>
+    </section>
+
+    <!-- 13. FAQ EN ACCORDÉON SUR FOND VERT -->
+    <section class="section-green-wrap" id="faq">
+      <div class="container">
+        <div class="section-green">
+          <div class="section-head centered reveal">
+            <span class="section-label">Questions Fréquentes</span>
+            <h2 class="section-title">Des <span class="highlight">Questions ?</span> Voici les Réponses</h2>
+          </div>
+
+          <div class="faq-list reveal" id="faq-list"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 14. FOOTER -->
+  <footer class="site-footer">
+    <div class="marquee-band" aria-hidden="true" style="margin:0;">
+      <div class="marquee-track" id="marquee-bottom"></div>
+    </div>
+
+    <div class="footer-main">
+      <div class="container">
+        <div class="footer-top">
+          <h2 class="section-title" style="font-size:clamp(1.6rem,3vw,2.2rem);">
+            Restons en <span class="highlight">Contact</span>
+          </h2>
+          <a href="public/cv/CV-Jean-Marc-CODJO.pdf" download="CV-Jean-Marc-CODJO.pdf" class="btn-pill btn-pill-green btn-cv" data-cv-source="footer">
+            <span class="cv-btn-label">Télécharger mon CV</span>
+            <span class="btn-circle" aria-hidden="true">↓</span>
+          </a>
+        </div>
+
+        <div class="footer-grid">
+          <div class="footer-col">
+            <a href="#accueil" class="brand" style="margin-bottom:14px;">
+              <span class="brand-mark">JMC</span>
+              <span>Jean-Marc Codjo<span class="brand-dot">.</span></span>
+            </a>
+            <p style="font-size:0.9rem;color:var(--text-secondary);max-width:340px;">
+              Chef de Projet Marketing 360° &amp; Stratégiste SEO basé à Abomey-Calavi (Bénin), disponible pour vos projets en Afrique francophone et à distance.
+            </p>
+            <div class="footer-socials">
+              <a href="https://www.linkedin.com/in/jean-marc-codjo" target="_blank" rel="noopener noreferrer" class="social-circle" aria-label="LinkedIn">in</a>
+              <a href="https://wa.me/2290166578880" target="_blank" rel="noopener noreferrer" class="social-circle" aria-label="WhatsApp">WA</a>
+              <a href="#contact" class="social-circle" aria-label="Email" id="footer-email-icon">@</a>
+            </div>
+          </div>
+
+          <div class="footer-col">
+            <h4>Navigation</h4>
+            <ul class="footer-links">
+              <li><a href="#accueil">Accueil</a></li>
+              <li><a href="#services">Services</a></li>
+              <li><a href="#apropos">À propos</a></li>
+              <li><a href="#projets">Projets</a></li>
+              <li><a href="#parcours">Parcours</a></li>
+              <li><a href="#faq">FAQ</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Expertises</h4>
+            <ul class="footer-links">
+              <li><a href="#services">Gestion de Projets 360°</a></li>
+              <li><a href="#services">SEO &amp; Stratégie éditoriale</a></li>
+              <li><a href="#services">Copywriting Conversion</a></li>
+              <li><a href="#services">Croissance YouTube</a></li>
+              <li><a href="#services">Acquisition &amp; B2B</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Coordonnées</h4>
+            <ul class="footer-links">
+              <li><a href="https://wa.me/2290166578880" target="_blank" rel="noopener noreferrer">+229 01 66 57 88 80</a></li>
+              <li><span id="footer-email-text">Formulaire de contact</span></li>
+              <li>Abomey-Calavi, Bénin</li>
+              <li>Disponible à distance</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div class="container footer-bottom-inner">
+        <span>© <span id="current-year">2026</span> <strong style="color:var(--accent-on-dark);">Jean-Marc CODJO</strong>. Tous droits réservés.</span>
+        <span>Conçu pour la performance, l'accessibilité et le SEO.</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modale universelle (Aperçu rapide Étude de cas / Détail Service) -->
+  <div class="modal-backdrop" id="modal-backdrop" aria-hidden="true">
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button type="button" class="modal-close" id="modal-close" aria-label="Fermer la fenêtre">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Bouton retour en haut flottant -->
+  <button type="button" class="back-to-top" id="back-to-top" aria-label="Retour en haut de la page" title="Haut de page">↑</button>
+
+  <!-- Toast notifications (CV download feedback / errors) -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>

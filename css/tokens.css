@@ -1,0 +1,68 @@
+/* ==========================================================================
+   DESIGN TOKENS — Portfolio Jean-Marc CODJO
+   Direction artistique : Bleu Marine (#0F2C59) + Bleu Royal (#2563EB) + Blanc (#FFFFFF)
+   ========================================================================== */
+
+:root {
+  /* Palette dominante Bleu & Blanc */
+  --green: #0F2C59;
+  --green-deep: #0A1E3F;
+  --green-surface: #173B72;
+  --green-border: rgba(255, 255, 255, 0.16);
+
+  --amber: #2563EB;
+  --amber-hover: #1D4ED8;
+  --amber-soft: #EFF6FF;
+  --accent-on-dark: #60A5FA;
+
+  /* Neutres (mode clair — blanc pur & gris bleuté très doux) */
+  --bg: #FFFFFF;
+  --bg-soft: #F8FAFC;
+  --card: #F1F5F9;
+  --card-elevated: #FFFFFF;
+  --border: #E2E8F0;
+
+  --text: #0F172A;
+  --text-secondary: #475569;
+  --text-on-green: #FFFFFF;
+  --text-on-green-muted: #CBD5E1;
+  --text-on-amber: #FFFFFF;
+
+  /* Typographie */
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-script: "Dancing Script", Georgia, cursive;
+
+  /* Rayons & ombres */
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 28px;
+  --radius-xl: 36px;
+  --radius-pill: 9999px;
+
+  --shadow-sm: 0 4px 16px rgba(15, 44, 89, 0.06);
+  --shadow-md: 0 12px 32px rgba(15, 44, 89, 0.10);
+  --shadow-lg: 0 22px 54px rgba(15, 44, 89, 0.14);
+  --shadow-nav: 0 12px 30px rgba(15, 44, 89, 0.24);
+
+  /* Layout & transitions */
+  --container: 1180px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --transition: 280ms var(--ease);
+}
+
+/* Mode sombre cohérent Bleu Nuit & Blanc */
+[data-theme="dark"] {
+  --bg: #091326;
+  --bg-soft: #0D1A33;
+  --card: #112242;
+  --card-elevated: #162B52;
+  --border: #233B6B;
+
+  --text: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --amber-soft: rgba(37, 99, 235, 0.22);
+
+  --shadow-sm: 0 4px 16px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 12px 32px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 22px 54px rgba(0, 0, 0, 0.5);
+}

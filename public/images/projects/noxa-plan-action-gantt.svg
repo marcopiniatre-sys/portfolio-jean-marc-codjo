@@ -1,0 +1,67 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="24" fill="#EFF6FF"/>
+  <rect x="34" y="30" width="732" height="460" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="34" y="30" width="732" height="68" rx="20" fill="#0F2C59"/>
+  <rect x="34" y="78" width="732" height="20" fill="#0F2C59"/>
+  <rect x="60" y="50" width="160" height="28" rx="14" fill="#2563EB"/>
+  <text x="140" y="69" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="12" fill="#FFFFFF">PLAN D'ACTION · GANTT</text>
+  <text x="236" y="70" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">Plan d'Action QQOQCCP &amp; Budget 6,1 M FCFA</text>
+  <!-- Gantt chart mockup -->
+  <g transform="translate(60,118)">
+    <text x="0" y="16" font-family="system-ui,sans-serif" font-weight="800" font-size="13" fill="#0F2C59">RÉTRO-PLANNING GANTT (14 SEMAINES · MARGE LOI DE MURPHY +20 % EN ORANGE)</text>
+    <!-- Header grid -->
+    <rect y="28" width="680" height="26" rx="8" fill="#F4F4F2"/>
+    <text x="14" y="45" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#4B5563">Tâches opérationnelles (3 Axes)</text>
+    <text x="275" y="45" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#4B5563">JANV.</text>
+    <text x="385" y="45" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#4B5563">FÉVR.</text>
+    <text x="500" y="45" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#4B5563">MARS</text>
+    <text x="615" y="45" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#4B5563">AVR.</text>
+    <!-- Rows -->
+    <g font-family="system-ui,sans-serif" font-size="11.5" fill="#1F2937">
+      <text x="10" y="78">1.1 Pack PME &amp; Prix fixe (Anatole)</text>
+      <rect x="260" y="66" width="54" height="16" rx="5" fill="#0F2C59"/><rect x="314" y="66" width="16" height="16" rx="4" fill="#2563EB"/>
+
+      <text x="10" y="106">1.2 Contrat 2p &amp; 1.3 Grille audit (Romuald/Fawaz)</text>
+      <rect x="310" y="94" width="76" height="16" rx="5" fill="#0F2C59"/><rect x="386" y="94" width="20" height="16" rx="4" fill="#2563EB"/>
+
+      <text x="10" y="134">2.1 Textes site, guide &amp; cas (Jean-Marc)</text>
+      <rect x="360" y="122" width="78" height="16" rx="5" fill="#0F2C59"/><rect x="438" y="122" width="18" height="16" rx="4" fill="#2563EB"/>
+
+      <text x="10" y="162">2.2 Refonte mobile &amp; 2.3 Formulaire (Lionel)</text>
+      <rect x="392" y="150" width="96" height="16" rx="5" fill="#0F2C59"/><rect x="488" y="150" width="24" height="16" rx="4" fill="#2563EB"/>
+
+      <text x="10" y="190">3.1 LinkedIn Ads 5 pays (Jean-Marc)</text>
+      <rect x="514" y="178" width="110" height="16" rx="5" fill="#0F2C59"/><rect x="624" y="178" width="26" height="16" rx="4" fill="#2563EB"/>
+
+      <text x="10" y="218">3.2 Cyber Breakfast &amp; 3.3 Webinaire (Odilon/Fawaz)</text>
+      <rect x="478" y="206" width="150" height="16" rx="5" fill="#0F2C59"/><rect x="628" y="206" width="32" height="16" rx="4" fill="#2563EB"/>
+    </g>
+  </g>
+  <!-- 4 Cost masses + Murphy -->
+  <g transform="translate(60,362)">
+    <rect width="126" height="104" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="14" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">Achats Médias</text>
+    <text x="14" y="58" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#161616">1,50 M</text>
+    <text x="14" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#4B5563">LinkedIn Ads 5 pays</text>
+
+    <rect x="138" width="126" height="104" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="152" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">Production</text>
+    <text x="152" y="58" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#161616">545 k</text>
+    <text x="152" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#4B5563">Guide, cas, plaquettes</text>
+
+    <rect x="276" width="126" height="104" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="290" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">Prestataires</text>
+    <text x="290" y="58" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#161616">2,85 M</text>
+    <text x="290" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#4B5563">Site WP + 2 Hôtels 4★</text>
+
+    <rect x="414" width="126" height="104" rx="14" fill="#F7F7F5" stroke="#E5E7EB"/>
+    <text x="428" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#6B7280">Outils &amp; SaaS</text>
+    <text x="428" y="58" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#161616">650 k</text>
+    <text x="428" y="80" font-family="system-ui,sans-serif" font-size="10.5" fill="#4B5563">Sales Nav, Zoom, Canva</text>
+
+    <rect x="552" width="128" height="104" rx="14" fill="#0F2C59"/>
+    <text x="566" y="28" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#2563EB">Murphy (+10%)</text>
+    <text x="566" y="58" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">555 k</text>
+    <text x="566" y="82" font-family="system-ui,sans-serif" font-weight="700" font-size="11" fill="#BFDBFE">Total : 6,1 M FCFA</text>
+  </g>
+</svg>
