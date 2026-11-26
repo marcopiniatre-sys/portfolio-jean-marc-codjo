@@ -8,7 +8,7 @@
     "cvFiles": {
       "fr": {
         "label": "FR",
-        "path": "public/cv/CV-Jean-Marc-CODJO.pdf?v=4",
+        "path": "public/cv/CV-Jean-Marc-CODJO.pdf?v=5",
         "filename": "CV-Jean-Marc-CODJO.pdf"
       },
       "en": null
@@ -18,8 +18,8 @@
     "fullName": "Jean-Marc CODJO",
     "displayName": "Jean-Marc Codjo",
     "initials": "JMC",
-    "role": "Chef de Projet Marketing 360° • Stratégiste SEO, Contenu & Acquisition Digitale",
-    "shortRole": "Chef de Projet Marketing 360° & Stratégiste SEO",
+    "role": "Chef de Projet Marketing 360° • Stratège SEO, Contenu & Acquisition Digitale",
+    "shortRole": "Chef de Projet Marketing 360° & Stratège SEO",
     "location": "Abomey-Calavi, Bénin (disponible à distance)",
     "emailParts": {
       "user": "marcopiniatre",
@@ -32,7 +32,7 @@
     "heroBadge": "Bonjour !",
     "heroTitlePrefix": "Je suis",
     "heroTitleHighlight": "Jean-Marc Codjo,",
-    "heroTitleSuffix": "Chef de Projet Marketing 360° & Stratégiste SEO basé au Bénin.",
+    "heroTitleSuffix": "Chef de Projet Marketing 360° & Stratège SEO basé au Bénin.",
     "heroSubtitle": "Je transforme la stratégie éditoriale, le SEO et l'acquisition digitale en résultats mesurables.",
     "signature": "Jean-Marc Codjo"
   },

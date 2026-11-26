@@ -1,6 +1,6 @@
 # Portfolio Web — Jean-Marc CODJO
 
-Portfolio dynamique, moderne, responsive et optimisé SEO de **Jean-Marc CODJO** — *Chef de Projet Marketing 360° & Stratégiste SEO*.
+Portfolio dynamique, moderne, responsive et optimisé SEO de **Jean-Marc CODJO** — *Chef de Projet Marketing 360° & Stratège SEO*.
 
 ## Architecture & Choix Technique
 
